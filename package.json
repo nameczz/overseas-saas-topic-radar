@@ -1,0 +1,30 @@
+{
+  "name": "overseas-saas-topic-radar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "海外 SaaS / 小程序 / 小红书 / 公众号选题雷达：自动采集信号、评分并生成看板",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint . --max-warnings=0",
+    "fetch": "node scripts/fetch-radar.mjs",
+    "refresh": "node scripts/fetch-radar.mjs --write"
+  },
+  "dependencies": {
+    "@vercel/analytics": "latest",
+    "cheerio": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "rss-parser": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}
