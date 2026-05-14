@@ -10,6 +10,7 @@
 - Buzzing: `https://www.buzzing.cc/`
 - Hacker News Algolia：AI / SaaS / agent / indie hacker 等关键词
 - GitHub Search：近期高增长 AI / SaaS / automation / agent repo
+- Hugging Face Models：Trending 模型、空间和 AI 能力信号
 - Dev.to：AI / SaaS / startup / product 相关文章
 - Product Hunt RSS：新产品信号（如果 RSS 可访问）
 

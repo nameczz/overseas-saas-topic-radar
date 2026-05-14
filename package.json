@@ -8,6 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint . --max-warnings=0",
+    "test": "node --test test/*.test.mjs",
     "fetch": "node scripts/fetch-radar.mjs",
     "refresh": "node scripts/fetch-radar.mjs --write"
   },
