@@ -145,12 +145,12 @@ export default async function Home() {
           <h2>信息源贡献</h2>
           <table className="table"><tbody>{sourceRows.map(([k, v]) => <tr key={k}><th>{k}</th><td>{v}</td></tr>)}</tbody></table>
         </div>
-        <div className="section card">
+        <div className="section card opportunity-section">
           <h2>用户吐槽与开发机会</h2>
           <p className="section-intro">把“某个 SaaS/工具不好用、太贵、难取消、流程痛苦、缺功能”等负反馈作为重要信号：先看原帖评论验证是否高频，再拆 MVP 替代方案。</p>
           {opportunityItems.length ? opportunityItems.map((item) => <ItemCard key={item.id} item={item} compact />) : <div className="empty">暂未抓到明显负反馈；会持续从 Buzzing/HN/Reddit/SideProject 等来源跟踪。</div>}
         </div>
-        <div className="section card">
+        <div className="section card source-section">
           <h2>按数据源拆看</h2>
           <p className="section-intro">综合排序容易被 GitHub/HF 这种高信号源淹没；这里把每个来源单独展开。推特/X 是独立来源，但当前本机 xurl 未配置，所以先显示接入说明，不混入结果。</p>
           <div className="source-grid">
