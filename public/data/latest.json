@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T18:27:57.488Z",
+  "generatedAt": "2026-06-27T21:25:27.888Z",
   "sourceCount": 9,
   "itemCount": 80,
   "topItems": [
@@ -55,7 +55,7 @@
       "publishedAt": "2026-06-17T04:37:14Z",
       "rawSignal": 24.95385375784781,
       "id": "64d819a9c02b",
-      "score": 73,
+      "score": 72,
       "scoreBreakdown": {
         "signal": 25,
         "relevance": 20,
@@ -79,6 +79,51 @@
       "recommendation": "公众号深度文 + SaaS 机会评估",
       "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；SaaS/商业关键词：api；热点场景：agent、mcp。",
       "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
+    },
+    {
+      "title": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+      "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9",
+      "source": "Dev.to",
+      "summary": "If you're building a SaaS AI agent product and you're already on Kinde, you already know the...",
+      "publishedAt": "2026-06-21T21:10:11Z",
+      "rawSignal": 10.2,
+      "id": "1eb687fe4ea9",
+      "score": 71,
+      "scoreBreakdown": {
+        "signal": 13,
+        "relevance": 18,
+        "contentFit": 18,
+        "business": 16,
+        "recency": 6
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "saas",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "海外 SaaS 产品机会",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 13/25；用户负反馈：missing；AI/工具关键词：ai、agent；SaaS/商业关键词：saas。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "missing"
+        ],
+        "contextHits": [
+          "saas",
+          "product",
+          "agent",
+          "ai"
+        ]
+      }
     },
     {
       "title": "人工智能正在设计人类甚至无法想象的无线电芯片",
@@ -159,7 +204,7 @@
       "publishedAt": "2026-06-22T00:47:45Z",
       "rawSignal": 16.6,
       "id": "ba8836730071",
-      "score": 69,
+      "score": 68,
       "scoreBreakdown": {
         "signal": 17,
         "relevance": 22,
@@ -271,7 +316,7 @@
       }
     },
     {
-      "title": "cobusgreyling/loop-engineering ★3118",
+      "title": "cobusgreyling/loop-engineering ★3191",
       "url": "https://github.com/cobusgreyling/loop-engineering",
       "source": "GitHub Trending Search",
       "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -367,12 +412,12 @@
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
     },
     {
-      "title": "Forsy-AI/agent-apprenticeship ★992",
+      "title": "Forsy-AI/agent-apprenticeship ★995",
       "url": "https://github.com/Forsy-AI/agent-apprenticeship",
       "source": "GitHub Trending Search",
       "summary": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
       "publishedAt": "2026-06-19T16:19:37Z",
-      "rawSignal": 33.97559398796305,
+      "rawSignal": 33.98607470738959,
       "id": "795f27f2e26f",
       "score": 66,
       "scoreBreakdown": {
@@ -396,12 +441,12 @@
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
     },
     {
-      "title": "fkiene/llmtrim ★127",
+      "title": "fkiene/llmtrim ★128",
       "url": "https://github.com/fkiene/llmtrim",
       "source": "GitHub Trending Search",
       "summary": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens from prompts, history, tool output, and code before they're sent: -31% input / -74% output, measured live. Any provider, no extra model calls. Also an MCP server and embeddable library (Rust, Python, Ruby, Kotlin, Swift, JS/TS).",
       "publishedAt": "2026-06-07T19:58:56Z",
-      "rawSignal": 26.857679757182947,
+      "rawSignal": 26.88471768239399,
       "id": "1e484b77df94",
       "score": 66,
       "scoreBreakdown": {
@@ -456,6 +501,49 @@
       "recommendation": "小红书工具卡 + 实测教程",
       "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、agent、automation；热点场景：agent、automation。",
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+    },
+    {
+      "title": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+      "url": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx",
+      "source": "AIHOT",
+      "summary": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+      "publishedAt": "2026-06-27T21:25:27.646Z",
+      "rawSignal": 8,
+      "id": "7ea03dab0875",
+      "score": 65,
+      "scoreBreakdown": {
+        "signal": 11,
+        "relevance": 14,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "claude",
+        "notion",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 AIHOT 的信号强度 11/25；用户负反馈：替代；AI/工具关键词：ai、claude；热点场景：notion。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "替代"
+        ],
+        "contextHits": [
+          "ai",
+          "notion",
+          "工具"
+        ]
+      }
     },
     {
       "title": "OtterMind/Nubase ★451",
@@ -625,7 +713,7 @@
       "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
     },
     {
-      "title": "Forward-Future/loopy ★1776",
+      "title": "Forward-Future/loopy ★1800",
       "url": "https://github.com/Forward-Future/loopy",
       "source": "GitHub Trending Search",
       "summary": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
@@ -655,12 +743,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "benchflow-ai/awesome-evals ★527",
+      "title": "benchflow-ai/awesome-evals ★529",
       "url": "https://github.com/benchflow-ai/awesome-evals",
       "source": "GitHub Trending Search",
       "summary": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
       "publishedAt": "2026-06-24T08:10:33Z",
-      "rawSignal": 31.781071380270497,
+      "rawSignal": 31.794206956806313,
       "id": "018f030d8873",
       "score": 64,
       "scoreBreakdown": {
@@ -684,12 +772,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "tsouth89/conduit ★40",
+      "title": "tsouth89/conduit ★41",
       "url": "https://github.com/tsouth89/conduit",
       "source": "GitHub Trending Search",
       "summary": "One local gateway for all your MCP servers, set up once and shared by every AI client (Claude, Cursor, VS Code, Codex). Lazy discovery collapses them to 3 meta-tools the agent searches on demand, ~90% fewer tokens. Keys in your OS keychain, no cloud.",
       "publishedAt": "2026-06-19T19:42:40Z",
-      "rawSignal": 22.902270853757884,
+      "rawSignal": 22.985994323183206,
       "id": "03e5db60ef50",
       "score": 64,
       "scoreBreakdown": {
@@ -720,7 +808,7 @@
       "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
       "source": "AIHOT",
       "summary": "00:53Rohan Paul75华盛顿邮报报告：AI聊天机器人存在左翼偏见邮报用 30 个政策问题的测试戳破了‘中立’幻觉，GPT-5.5 左倾回答占 80%，Gemini 低调得多但也不是中立。值得看的不是哪个模型左右，而是它们用单一框架替用户做了取舍。",
-      "publishedAt": "2026-06-27T18:27:56.392Z",
+      "publishedAt": "2026-06-27T21:25:27.645Z",
       "rawSignal": 8,
       "id": "d6501d7af258",
       "score": 63,
@@ -853,7 +941,7 @@
       "url": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
       "source": "AIHOT",
       "summary": "00:10Google Blog：AI（RSS）57Google Finance 全新 Android 应用与投资组合功能上线虽然对 AI 行业算不上大新闻，但对散户投资者是个实用升级，能自动盯盘、生成个性化简报，还能用对话式研究挖掘持仓问题，比大多数 AI 功能都更落地。",
-      "publishedAt": "2026-06-27T18:27:56.392Z",
+      "publishedAt": "2026-06-27T21:25:27.646Z",
       "rawSignal": 8,
       "id": "ce71cc8fd321",
       "score": 61,
@@ -889,12 +977,12 @@
       }
     },
     {
-      "title": "winsznx/theeleven ★616",
+      "title": "winsznx/theeleven ★632",
       "url": "https://github.com/winsznx/theeleven",
       "source": "GitHub Trending Search",
       "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
       "publishedAt": "2026-06-25T07:42:50Z",
-      "rawSignal": 32.32228131226593,
+      "rawSignal": 32.411229680138845,
       "id": "531526114c36",
       "score": 61,
       "scoreBreakdown": {
@@ -945,81 +1033,6 @@
       "recommendation": "快讯/素材池追踪",
       "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent。",
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-    },
-    {
-      "title": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
-      "url": "https://ideavault-alpha.vercel.app/",
-      "source": "Hacker News",
-      "summary": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
-      "publishedAt": "2026-06-19T11:21:58Z",
-      "rawSignal": 8.25,
-      "id": "9bbb720cca23",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 11,
-        "relevance": 12,
-        "contentFit": 17,
-        "business": 16,
-        "recency": 4
-      },
-      "tags": [
-        "ai",
-        "saas",
-        "tool",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "海外 SaaS 产品机会",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：complain、complaint；AI/工具关键词：ai；SaaS/商业关键词：saas。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "complain",
-          "complaint"
-        ],
-        "contextHits": [
-          "saas",
-          "tool",
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "Env-Kit/envkit-releases ★170",
-      "url": "https://github.com/Env-Kit/envkit-releases",
-      "source": "GitHub Trending Search",
-      "summary": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control. A Laragon/XAMPP/Herd alternative.",
-      "publishedAt": "2026-06-20T15:20:52Z",
-      "rawSignal": 27.863968883137233,
-      "id": "7af9809df1f3",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 25,
-        "relevance": 12,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 5
-      },
-      "tags": [
-        "ai",
-        "rag",
-        "mcp"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "MCP 生态应用清单",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、rag；热点场景：mcp、rag。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     }
   ],
   "opportunityItems": [
@@ -1064,6 +1077,51 @@
           "saas",
           "ai",
           "产品"
+        ]
+      }
+    },
+    {
+      "title": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+      "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9",
+      "source": "Dev.to",
+      "summary": "If you're building a SaaS AI agent product and you're already on Kinde, you already know the...",
+      "publishedAt": "2026-06-21T21:10:11Z",
+      "rawSignal": 10.2,
+      "id": "1eb687fe4ea9",
+      "score": 71,
+      "scoreBreakdown": {
+        "signal": 13,
+        "relevance": 18,
+        "contentFit": 18,
+        "business": 16,
+        "recency": 6
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "saas",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "海外 SaaS 产品机会",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 13/25；用户负反馈：missing；AI/工具关键词：ai、agent；SaaS/商业关键词：saas。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "missing"
+        ],
+        "contextHits": [
+          "saas",
+          "product",
+          "agent",
+          "ai"
         ]
       }
     },
@@ -1195,6 +1253,49 @@
       }
     },
     {
+      "title": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+      "url": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx",
+      "source": "AIHOT",
+      "summary": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+      "publishedAt": "2026-06-27T21:25:27.646Z",
+      "rawSignal": 8,
+      "id": "7ea03dab0875",
+      "score": 65,
+      "scoreBreakdown": {
+        "signal": 11,
+        "relevance": 14,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "claude",
+        "notion",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 AIHOT 的信号强度 11/25；用户负反馈：替代；AI/工具关键词：ai、claude；热点场景：notion。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "替代"
+        ],
+        "contextHits": [
+          "ai",
+          "notion",
+          "工具"
+        ]
+      }
+    },
+    {
       "title": "The Principle of Least AI",
       "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
       "source": "Dev.to",
@@ -1238,7 +1339,7 @@
       "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
       "source": "AIHOT",
       "summary": "00:53Rohan Paul75华盛顿邮报报告：AI聊天机器人存在左翼偏见邮报用 30 个政策问题的测试戳破了‘中立’幻觉，GPT-5.5 左倾回答占 80%，Gemini 低调得多但也不是中立。值得看的不是哪个模型左右，而是它们用单一框架替用户做了取舍。",
-      "publishedAt": "2026-06-27T18:27:56.392Z",
+      "publishedAt": "2026-06-27T21:25:27.645Z",
       "rawSignal": 8,
       "id": "d6501d7af258",
       "score": 63,
@@ -1279,7 +1380,7 @@
       "url": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
       "source": "AIHOT",
       "summary": "00:10Google Blog：AI（RSS）57Google Finance 全新 Android 应用与投资组合功能上线虽然对 AI 行业算不上大新闻，但对散户投资者是个实用升级，能自动盯盘、生成个性化简报，还能用对话式研究挖掘持仓问题，比大多数 AI 功能都更落地。",
-      "publishedAt": "2026-06-27T18:27:56.392Z",
+      "publishedAt": "2026-06-27T21:25:27.646Z",
       "rawSignal": 8,
       "id": "ce71cc8fd321",
       "score": 61,
@@ -1406,7 +1507,7 @@
       "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
       "source": "AIHOT",
       "summary": "20:40The Decoder：AI News（RSS）70\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击这是美国首次有规模的劳动力AI应对策略，四家AI巨头终于自掏腰包搞再培训，虽然出资方身份令人警醒，但跨党派运作至少说明问题已经大到必须正视了。",
-      "publishedAt": "2026-06-27T18:27:56.392Z",
+      "publishedAt": "2026-06-27T21:25:27.645Z",
       "rawSignal": 8,
       "id": "507f99a64e1f",
       "score": 55,
@@ -1434,84 +1535,6 @@
         "type": "用户吐槽/开发机会",
         "complaintHits": [
           "问题"
-        ],
-        "contextHits": [
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "09:27小互81小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色小互开源了一整套AI配图skill和31个原创角色，把“读文-定图-生图-自查”的流程装进一个命令，自媒体人装上就能用，省去调提示词的痛苦。",
-      "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
-      "source": "AIHOT",
-      "summary": "09:27小互81小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色小互开源了一整套AI配图skill和31个原创角色，把“读文-定图-生图-自查”的流程装进一个命令，自媒体人装上就能用，省去调提示词的痛苦。",
-      "publishedAt": "2026-06-27T18:27:56.392Z",
-      "rawSignal": 8,
-      "id": "7c6b9936b816",
-      "score": 55,
-      "scoreBreakdown": {
-        "signal": 11,
-        "relevance": 8,
-        "contentFit": 14,
-        "business": 12,
-        "recency": 10
-      },
-      "tags": [
-        "ai",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 AIHOT 的信号强度 11/25；用户负反馈：痛苦；AI/工具关键词：ai。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "痛苦"
-        ],
-        "contextHits": [
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "The AI Memory Problem Nobody Is Incentivized to Solve",
-      "url": "https://www.indiehackers.com/post/the-ai-memory-problem-nobody-is-incentivized-to-solve-9c294bdcaa",
-      "source": "Hacker News",
-      "summary": "The AI Memory Problem Nobody Is Incentivized to Solve",
-      "publishedAt": "2026-06-25T16:53:07Z",
-      "rawSignal": 8.25,
-      "id": "1b55806917e4",
-      "score": 54,
-      "scoreBreakdown": {
-        "signal": 11,
-        "relevance": 8,
-        "contentFit": 14,
-        "business": 12,
-        "recency": 9
-      },
-      "tags": [
-        "ai",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "problem"
         ],
         "contextHits": [
           "ai"
@@ -1562,6 +1585,51 @@
             "saas",
             "ai",
             "产品"
+          ]
+        }
+      },
+      {
+        "title": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+        "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9",
+        "source": "Dev.to",
+        "summary": "If you're building a SaaS AI agent product and you're already on Kinde, you already know the...",
+        "publishedAt": "2026-06-21T21:10:11Z",
+        "rawSignal": 10.2,
+        "id": "1eb687fe4ea9",
+        "score": 71,
+        "scoreBreakdown": {
+          "signal": 13,
+          "relevance": 18,
+          "contentFit": 18,
+          "business": 16,
+          "recency": 6
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "saas",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "海外 SaaS 产品机会",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 13/25；用户负反馈：missing；AI/工具关键词：ai、agent；SaaS/商业关键词：saas。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "missing"
+          ],
+          "contextHits": [
+            "saas",
+            "product",
+            "agent",
+            "ai"
           ]
         }
       },
@@ -1693,6 +1761,49 @@
         }
       },
       {
+        "title": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+        "url": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx",
+        "source": "AIHOT",
+        "summary": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+        "publishedAt": "2026-06-27T21:25:27.646Z",
+        "rawSignal": 8,
+        "id": "7ea03dab0875",
+        "score": 65,
+        "scoreBreakdown": {
+          "signal": 11,
+          "relevance": 14,
+          "contentFit": 18,
+          "business": 12,
+          "recency": 10
+        },
+        "tags": [
+          "ai",
+          "claude",
+          "notion",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 AIHOT 的信号强度 11/25；用户负反馈：替代；AI/工具关键词：ai、claude；热点场景：notion。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "替代"
+          ],
+          "contextHits": [
+            "ai",
+            "notion",
+            "工具"
+          ]
+        }
+      },
+      {
         "title": "The Principle of Least AI",
         "url": "https://dev.to/ingosteinke/the-principle-of-least-ai-4jc0",
         "source": "Dev.to",
@@ -1736,7 +1847,7 @@
         "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
         "source": "AIHOT",
         "summary": "00:53Rohan Paul75华盛顿邮报报告：AI聊天机器人存在左翼偏见邮报用 30 个政策问题的测试戳破了‘中立’幻觉，GPT-5.5 左倾回答占 80%，Gemini 低调得多但也不是中立。值得看的不是哪个模型左右，而是它们用单一框架替用户做了取舍。",
-        "publishedAt": "2026-06-27T18:27:56.392Z",
+        "publishedAt": "2026-06-27T21:25:27.645Z",
         "rawSignal": 8,
         "id": "d6501d7af258",
         "score": 63,
@@ -1777,7 +1888,7 @@
         "url": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
         "source": "AIHOT",
         "summary": "00:10Google Blog：AI（RSS）57Google Finance 全新 Android 应用与投资组合功能上线虽然对 AI 行业算不上大新闻，但对散户投资者是个实用升级，能自动盯盘、生成个性化简报，还能用对话式研究挖掘持仓问题，比大多数 AI 功能都更落地。",
-        "publishedAt": "2026-06-27T18:27:56.392Z",
+        "publishedAt": "2026-06-27T21:25:27.646Z",
         "rawSignal": 8,
         "id": "ce71cc8fd321",
         "score": 61,
@@ -1904,7 +2015,7 @@
         "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
         "source": "AIHOT",
         "summary": "20:40The Decoder：AI News（RSS）70\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击这是美国首次有规模的劳动力AI应对策略，四家AI巨头终于自掏腰包搞再培训，虽然出资方身份令人警醒，但跨党派运作至少说明问题已经大到必须正视了。",
-        "publishedAt": "2026-06-27T18:27:56.392Z",
+        "publishedAt": "2026-06-27T21:25:27.645Z",
         "rawSignal": 8,
         "id": "507f99a64e1f",
         "score": 55,
@@ -1943,7 +2054,7 @@
         "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
         "source": "AIHOT",
         "summary": "09:27小互81小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色小互开源了一整套AI配图skill和31个原创角色，把“读文-定图-生图-自查”的流程装进一个命令，自媒体人装上就能用，省去调提示词的痛苦。",
-        "publishedAt": "2026-06-27T18:27:56.392Z",
+        "publishedAt": "2026-06-27T21:25:27.646Z",
         "rawSignal": 8,
         "id": "7c6b9936b816",
         "score": 55,
@@ -1991,7 +2102,7 @@
           "relevance": 8,
           "contentFit": 14,
           "business": 12,
-          "recency": 9
+          "recency": 8
         },
         "tags": [
           "ai",
@@ -2065,7 +2176,7 @@
         "publishedAt": "2026-06-17T04:37:14Z",
         "rawSignal": 24.95385375784781,
         "id": "64d819a9c02b",
-        "score": 73,
+        "score": 72,
         "scoreBreakdown": {
           "signal": 25,
           "relevance": 20,
@@ -2131,7 +2242,7 @@
         "publishedAt": "2026-06-22T00:47:45Z",
         "rawSignal": 16.6,
         "id": "ba8836730071",
-        "score": 69,
+        "score": 68,
         "scoreBreakdown": {
           "signal": 17,
           "relevance": 22,
@@ -2156,7 +2267,7 @@
         "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       },
       {
-        "title": "cobusgreyling/loop-engineering ★3118",
+        "title": "cobusgreyling/loop-engineering ★3191",
         "url": "https://github.com/cobusgreyling/loop-engineering",
         "source": "GitHub Trending Search",
         "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -2252,12 +2363,12 @@
         "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       },
       {
-        "title": "Forsy-AI/agent-apprenticeship ★992",
+        "title": "Forsy-AI/agent-apprenticeship ★995",
         "url": "https://github.com/Forsy-AI/agent-apprenticeship",
         "source": "GitHub Trending Search",
         "summary": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
         "publishedAt": "2026-06-19T16:19:37Z",
-        "rawSignal": 33.97559398796305,
+        "rawSignal": 33.98607470738959,
         "id": "795f27f2e26f",
         "score": 66,
         "scoreBreakdown": {
@@ -2281,12 +2392,12 @@
         "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       },
       {
-        "title": "fkiene/llmtrim ★127",
+        "title": "fkiene/llmtrim ★128",
         "url": "https://github.com/fkiene/llmtrim",
         "source": "GitHub Trending Search",
         "summary": "Local proxy that compresses your LLM API requests so you pay less, with no change to the answers. Trims wasted tokens from prompts, history, tool output, and code before they're sent: -31% input / -74% output, measured live. Any provider, no extra model calls. Also an MCP server and embeddable library (Rust, Python, Ruby, Kotlin, Swift, JS/TS).",
         "publishedAt": "2026-06-07T19:58:56Z",
-        "rawSignal": 26.857679757182947,
+        "rawSignal": 26.88471768239399,
         "id": "1e484b77df94",
         "score": 66,
         "scoreBreakdown": {
@@ -2535,36 +2646,6 @@
         "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
       },
       {
-        "title": "亚洲人工智能初创企业推出类似Mythos的模型",
-        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "source": "Buzzing HN Front",
-        "summary": "Asian AI startups launch Mythos-like models (techcrunch.com) 06-27 ↑ 18 HN Points",
-        "publishedAt": "2026-06-27T14:03:52.445Z",
-        "rawSignal": 13,
-        "id": "eb1f31d9e5e7",
-        "score": 53,
-        "scoreBreakdown": {
-          "signal": 13,
-          "relevance": 10,
-          "contentFit": 10,
-          "business": 10,
-          "recency": 10
-        },
-        "tags": [
-          "ai",
-          "startup",
-          "launch"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "独立开发者/增长案例",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "独立开发案例库",
-        "selectionReason": "入选原因：来源 Buzzing HN Front 的信号强度 13/25；AI/工具关键词：ai；独立开发/增长关键词：startup、launch。",
-        "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
-      },
-      {
         "title": "Show HN: 从其他创始人那里获得对您在 ProductHunt 上发布产品的支持",
         "url": "https://www.launchpact.io/",
         "source": "Buzzing Show HN",
@@ -2627,7 +2708,7 @@
     ],
     "快讯/素材池追踪": [
       {
-        "title": "Forward-Future/loopy ★1776",
+        "title": "Forward-Future/loopy ★1800",
         "url": "https://github.com/Forward-Future/loopy",
         "source": "GitHub Trending Search",
         "summary": "A library of practical AI-agent loops and an installable skill for finding, adapting, and designing repeatable agent workflows.",
@@ -2657,12 +2738,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "benchflow-ai/awesome-evals ★527",
+        "title": "benchflow-ai/awesome-evals ★529",
         "url": "https://github.com/benchflow-ai/awesome-evals",
         "source": "GitHub Trending Search",
         "summary": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
         "publishedAt": "2026-06-24T08:10:33Z",
-        "rawSignal": 31.781071380270497,
+        "rawSignal": 31.794206956806313,
         "id": "018f030d8873",
         "score": 64,
         "scoreBreakdown": {
@@ -2686,12 +2767,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "tsouth89/conduit ★40",
+        "title": "tsouth89/conduit ★41",
         "url": "https://github.com/tsouth89/conduit",
         "source": "GitHub Trending Search",
         "summary": "One local gateway for all your MCP servers, set up once and shared by every AI client (Claude, Cursor, VS Code, Codex). Lazy discovery collapses them to 3 meta-tools the agent searches on demand, ~90% fewer tokens. Keys in your OS keychain, no cloud.",
         "publishedAt": "2026-06-19T19:42:40Z",
-        "rawSignal": 22.902270853757884,
+        "rawSignal": 22.985994323183206,
         "id": "03e5db60ef50",
         "score": 64,
         "scoreBreakdown": {
@@ -2810,12 +2891,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "winsznx/theeleven ★616",
+        "title": "winsznx/theeleven ★632",
         "url": "https://github.com/winsznx/theeleven",
         "source": "GitHub Trending Search",
         "summary": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
         "publishedAt": "2026-06-25T07:42:50Z",
-        "rawSignal": 32.32228131226593,
+        "rawSignal": 32.411229680138845,
         "id": "531526114c36",
         "score": 61,
         "scoreBreakdown": {
@@ -2868,12 +2949,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "Env-Kit/envkit-releases ★170",
+        "title": "Env-Kit/envkit-releases ★172",
         "url": "https://github.com/Env-Kit/envkit-releases",
         "source": "GitHub Trending Search",
         "summary": "EnvKit — free local development environment for Windows & macOS: nginx/Apache, multiple PHP versions, MySQL/MariaDB, PostgreSQL, Redis, MongoDB, Mailpit, Node.js, trusted .test HTTPS, and a built-in MCP server for AI-assistant control. A Laragon/XAMPP/Herd alternative.",
         "publishedAt": "2026-06-20T15:20:52Z",
-        "rawSignal": 27.863968883137233,
+        "rawSignal": 27.904368825030364,
         "id": "7af9809df1f3",
         "score": 60,
         "scoreBreakdown": {
@@ -2926,7 +3007,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "JimLiu/baoyu-design ★2074",
+        "title": "JimLiu/baoyu-design ★2079",
         "url": "https://github.com/JimLiu/baoyu-design",
         "source": "GitHub Trending Search",
         "summary": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
@@ -2986,12 +3067,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "majidmanzarpour/threejs-game-skills ★544",
+        "title": "majidmanzarpour/threejs-game-skills ★547",
         "url": "https://github.com/majidmanzarpour/threejs-game-skills",
         "source": "GitHub Trending Search",
         "summary": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
         "publishedAt": "2026-06-14T04:06:26Z",
-        "rawSignal": 31.89117201821314,
+        "rawSignal": 31.910244467874954,
         "id": "8b6ea46bb153",
         "score": 59,
         "scoreBreakdown": {
@@ -3017,12 +3098,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "ruvnet/agent-harness-generator ★331",
+        "title": "ruvnet/agent-harness-generator ★333",
         "url": "https://github.com/ruvnet/agent-harness-generator",
         "source": "GitHub Trending Search",
         "summary": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
         "publishedAt": "2026-06-13T18:29:11Z",
-        "rawSignal": 30.16910466963229,
+        "rawSignal": 30.189971734492516,
         "id": "62f198e884c9",
         "score": 59,
         "scoreBreakdown": {
@@ -3176,13 +3257,13 @@
         "publishedAt": "2026-06-25T16:04:46Z",
         "rawSignal": 30,
         "id": "3345b33384a9",
-        "score": 58,
+        "score": 57,
         "scoreBreakdown": {
           "signal": 25,
           "relevance": 6,
           "contentFit": 14,
           "business": 4,
-          "recency": 9
+          "recency": 8
         },
         "tags": [
           "ai",
@@ -3197,7 +3278,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "omnigent-ai/omnigent ★5102",
+        "title": "omnigent-ai/omnigent ★5115",
         "url": "https://github.com/omnigent-ai/omnigent",
         "source": "GitHub Trending Search",
         "summary": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
@@ -3344,12 +3425,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "SantanderAI/ralph ★77",
+        "title": "SantanderAI/ralph ★78",
         "url": "https://github.com/SantanderAI/ralph",
         "source": "GitHub Trending Search",
         "summary": "A configurable Bash/PowerShell loop that runs an AI coding CLI with a fresh session each iteration",
         "publishedAt": "2026-06-17T13:24:43Z",
-        "rawSignal": 25.136756821523843,
+        "rawSignal": 25.18101673032353,
         "id": "bcd83cf4beb1",
         "score": 56,
         "scoreBreakdown": {
@@ -3497,34 +3578,6 @@
     ],
     "观察名单": [
       {
-        "title": "When Judgment Becomes the Bottleneck",
-        "url": "https://dev.to/gamya_m/when-judgment-becomes-the-bottleneck-973",
-        "source": "Dev.to",
-        "summary": "A few days ago I published a lighthearted post about building a coding mascot generator with Google...",
-        "publishedAt": "2026-06-21T08:44:00Z",
-        "rawSignal": 28,
-        "id": "d723c1bc3e1c",
-        "score": 55,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 6,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 6
-        },
-        "tags": [
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：coding；热点场景：coding。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
         "title": "Gemini Spark - 您的全天候个人AI助手",
         "url": "https://www.producthunt.com/r/ECJULI3OMLYN7K",
         "source": "Buzzing Product Hunt",
@@ -3551,35 +3604,6 @@
         ],
         "recommendation": "观察名单",
         "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：ai、agent、gemini；热点场景：agent。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "Show HN: 使用 RAG 探索任何 YouTube 频道中的内容",
-        "url": "https://askchannel.ai/",
-        "source": "Buzzing Show HN",
-        "summary": "Discover content in any YouTube channel with RAG (askchannel.ai) 06-27 ↑ 1 HN Points",
-        "publishedAt": "2026-06-27T15:39:53.718Z",
-        "rawSignal": 13,
-        "id": "ec4719be3af3",
-        "score": 54,
-        "scoreBreakdown": {
-          "signal": 13,
-          "relevance": 10,
-          "contentFit": 17,
-          "business": 4,
-          "recency": 10
-        },
-        "tags": [
-          "ai",
-          "rag",
-          "content"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；AI/工具关键词：ai、rag；内容适配关键词：content；热点场景：rag。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -3701,7 +3725,35 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "DietrichGebert/ponytail ★61528",
+        "title": "When Judgment Becomes the Bottleneck",
+        "url": "https://dev.to/gamya_m/when-judgment-becomes-the-bottleneck-973",
+        "source": "Dev.to",
+        "summary": "A few days ago I published a lighthearted post about building a coding mascot generator with Google...",
+        "publishedAt": "2026-06-21T08:44:00Z",
+        "rawSignal": 28,
+        "id": "d723c1bc3e1c",
+        "score": 54,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 6,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 5
+        },
+        "tags": [
+          "coding"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：coding；热点场景：coding。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "DietrichGebert/ponytail ★61668",
         "url": "https://github.com/DietrichGebert/ponytail",
         "source": "GitHub Trending Search",
         "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
@@ -3757,12 +3809,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "ziqihe10-droid/xuefeng-agent ★839",
+        "title": "ziqihe10-droid/xuefeng-agent ★841",
         "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
         "source": "GitHub Trending Search",
         "summary": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
         "publishedAt": "2026-06-07T15:33:07Z",
-        "rawSignal": 33.394234288495056,
+        "rawSignal": 33.402496731997196,
         "id": "41be870e31a3",
         "score": 53,
         "scoreBreakdown": {
@@ -3847,7 +3899,7 @@
         "url": "https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye",
         "source": "AIHOT",
         "summary": "00:19Berryxia.AI76Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模Ornith-1.0 不是又刷 benchmark，而是第一次把‘任务脚手架’的生成也纳入 RL 优化，这个思路可能改变 agent coding 的训练范式。MIT 开源加 GGUF，本地党可以立刻跑起来。",
-        "publishedAt": "2026-06-27T18:27:56.392Z",
+        "publishedAt": "2026-06-27T21:25:27.646Z",
         "rawSignal": 8,
         "id": "89d36ee65b42",
         "score": 52,
@@ -3964,7 +4016,7 @@
         "source": "Hacker News",
         "summary": "Clean GitHub repo tricks AI coding agents into running malware",
         "publishedAt": "2026-06-27T17:05:52Z",
-        "rawSignal": 8.25,
+        "rawSignal": 8.333333333333334,
         "id": "64110d01b993",
         "score": 52,
         "scoreBreakdown": {
@@ -4080,13 +4132,13 @@
     ]
   },
   "sourceStats": {
-    "Buzzing Show HN": 3,
+    "Buzzing Show HN": 2,
     "GitHub Trending Search": 34,
-    "Buzzing HN Front": 2,
-    "Dev.to": 14,
+    "Dev.to": 15,
+    "Buzzing HN Front": 1,
     "Buzzing SideProject": 3,
     "Hacker News": 13,
-    "AIHOT": 5,
+    "AIHOT": 6,
     "Buzzing Product Hunt": 3,
     "Hugging Face Models": 3
   },
@@ -4094,7 +4146,7 @@
     {
       "source": "GitHub Trending Search",
       "count": 34,
-      "averageScore": 61,
+      "averageScore": 60,
       "items": [
         {
           "title": "7anX/AgentScan ★73",
@@ -4104,7 +4156,7 @@
           "publishedAt": "2026-06-17T04:37:14Z",
           "rawSignal": 24.95385375784781,
           "id": "64d819a9c02b",
-          "score": 73,
+          "score": 72,
           "scoreBreakdown": {
             "signal": 25,
             "relevance": 20,
@@ -4161,7 +4213,7 @@
           "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
         },
         {
-          "title": "cobusgreyling/loop-engineering ★3118",
+          "title": "cobusgreyling/loop-engineering ★3191",
           "url": "https://github.com/cobusgreyling/loop-engineering",
           "source": "GitHub Trending Search",
           "summary": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
@@ -4260,9 +4312,54 @@
     },
     {
       "source": "Dev.to",
-      "count": 14,
+      "count": 15,
       "averageScore": 60,
       "items": [
+        {
+          "title": "Kinde Is Missing from Mastra's Auth Lineup, So I Built the Provider",
+          "url": "https://dev.to/sholajegede/kinde-is-missing-from-mastras-auth-lineup-so-i-built-the-provider-5gc9",
+          "source": "Dev.to",
+          "summary": "If you're building a SaaS AI agent product and you're already on Kinde, you already know the...",
+          "publishedAt": "2026-06-21T21:10:11Z",
+          "rawSignal": 10.2,
+          "id": "1eb687fe4ea9",
+          "score": 71,
+          "scoreBreakdown": {
+            "signal": 13,
+            "relevance": 18,
+            "contentFit": 18,
+            "business": 16,
+            "recency": 6
+          },
+          "tags": [
+            "ai",
+            "agent",
+            "saas",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "海外 SaaS 产品机会",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Dev.to 的信号强度 13/25；用户负反馈：missing；AI/工具关键词：ai、agent；SaaS/商业关键词：saas。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "missing"
+            ],
+            "contextHits": [
+              "saas",
+              "product",
+              "agent",
+              "ai"
+            ]
+          }
+        },
         {
           "title": "3 Tools That Make AI Suck Less at Coding",
           "url": "https://dev.to/erikch/3-tools-that-make-ai-suck-less-at-coding-4c3",
@@ -4271,7 +4368,7 @@
           "publishedAt": "2026-06-22T00:47:45Z",
           "rawSignal": 16.6,
           "id": "ba8836730071",
-          "score": 69,
+          "score": 68,
           "scoreBreakdown": {
             "signal": 17,
             "relevance": 22,
@@ -4393,39 +4490,6 @@
           "recommendation": "独立开发案例库",
           "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、claude、openai；独立开发/增长关键词：founder。",
           "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
-        },
-        {
-          "title": "How I added Gemini + GPT-4 + Claude support in one settings toggle (Next.js SaaS)",
-          "url": "https://dev.to/__615f3acc0/how-i-added-gemini-gpt-4-claude-support-in-one-settings-toggle-nextjs-saas-4elb",
-          "source": "Dev.to",
-          "summary": "Build log from this week: I added multi-provider AI support to Melororium — users can now switch...",
-          "publishedAt": "2026-06-23T12:30:06Z",
-          "rawSignal": 10.2,
-          "id": "43723b767602",
-          "score": 63,
-          "scoreBreakdown": {
-            "signal": 10,
-            "relevance": 24,
-            "contentFit": 10,
-            "business": 12,
-            "recency": 7
-          },
-          "tags": [
-            "ai",
-            "gpt",
-            "claude",
-            "gemini",
-            "saas",
-            "support"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "海外 SaaS 产品机会",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "快讯/素材池追踪",
-          "selectionReason": "入选原因：来源 Dev.to 的信号强度 10/25；AI/工具关键词：ai、gpt、claude；SaaS/商业关键词：saas、support。",
-          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         }
       ]
     },
@@ -4561,13 +4625,13 @@
           "publishedAt": "2026-06-25T16:04:46Z",
           "rawSignal": 30,
           "id": "3345b33384a9",
-          "score": 58,
+          "score": 57,
           "scoreBreakdown": {
             "signal": 25,
             "relevance": 6,
             "contentFit": 14,
             "business": 4,
-            "recency": 9
+            "recency": 8
           },
           "tags": [
             "ai",
@@ -4615,15 +4679,58 @@
     },
     {
       "source": "AIHOT",
-      "count": 5,
-      "averageScore": 57,
+      "count": 6,
+      "averageScore": 59,
       "items": [
+        {
+          "title": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+          "url": "https://aihot.virxact.com/items/cmqwticse001bslp0tye275nx",
+          "source": "AIHOT",
+          "summary": "00:04Hacker News：AI 热帖71OpenKnowledge：开源、AI 优先的 Obsidian/Notion 替代品把 Claude、Codex 等 AI 代理直接嵌进知识库编辑器，想法比 Notion AI 更灵活，但这类工具最终拼的是细节打磨和生态，现阶段可以尝鲜但别急着切换主力。",
+          "publishedAt": "2026-06-27T21:25:27.646Z",
+          "rawSignal": 8,
+          "id": "7ea03dab0875",
+          "score": 65,
+          "scoreBreakdown": {
+            "signal": 11,
+            "relevance": 14,
+            "contentFit": 18,
+            "business": 12,
+            "recency": 10
+          },
+          "tags": [
+            "ai",
+            "claude",
+            "notion",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 AIHOT 的信号强度 11/25；用户负反馈：替代；AI/工具关键词：ai、claude；热点场景：notion。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "替代"
+            ],
+            "contextHits": [
+              "ai",
+              "notion",
+              "工具"
+            ]
+          }
+        },
         {
           "title": "00:53Rohan Paul75华盛顿邮报报告：AI聊天机器人存在左翼偏见邮报用 30 个政策问题的测试戳破了‘中立’幻觉，GPT-5.5 左倾回答占 80%，Gemini 低调得多但也不是中立。值得看的不是哪个模型左右，而是它们用单一框架替用户做了取舍。",
           "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
           "source": "AIHOT",
           "summary": "00:53Rohan Paul75华盛顿邮报报告：AI聊天机器人存在左翼偏见邮报用 30 个政策问题的测试戳破了‘中立’幻觉，GPT-5.5 左倾回答占 80%，Gemini 低调得多但也不是中立。值得看的不是哪个模型左右，而是它们用单一框架替用户做了取舍。",
-          "publishedAt": "2026-06-27T18:27:56.392Z",
+          "publishedAt": "2026-06-27T21:25:27.645Z",
           "rawSignal": 8,
           "id": "d6501d7af258",
           "score": 63,
@@ -4664,7 +4771,7 @@
           "url": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
           "source": "AIHOT",
           "summary": "00:10Google Blog：AI（RSS）57Google Finance 全新 Android 应用与投资组合功能上线虽然对 AI 行业算不上大新闻，但对散户投资者是个实用升级，能自动盯盘、生成个性化简报，还能用对话式研究挖掘持仓问题，比大多数 AI 功能都更落地。",
-          "publishedAt": "2026-06-27T18:27:56.392Z",
+          "publishedAt": "2026-06-27T21:25:27.646Z",
           "rawSignal": 8,
           "id": "ce71cc8fd321",
           "score": 61,
@@ -4704,7 +4811,7 @@
           "url": "https://aihot.virxact.com/items/cmqwclgpa00a0slfd8mlysoe8",
           "source": "AIHOT",
           "summary": "20:40The Decoder：AI News（RSS）70\"Raise Us\"启动：前美商务部长与四州合作筹集10亿美元应对AI就业冲击这是美国首次有规模的劳动力AI应对策略，四家AI巨头终于自掏腰包搞再培训，虽然出资方身份令人警醒，但跨党派运作至少说明问题已经大到必须正视了。",
-          "publishedAt": "2026-06-27T18:27:56.392Z",
+          "publishedAt": "2026-06-27T21:25:27.645Z",
           "rawSignal": 8,
           "id": "507f99a64e1f",
           "score": 55,
@@ -4743,7 +4850,7 @@
           "url": "https://aihot.virxact.com/items/cmqu93tek02e2sl80iom0bica",
           "source": "AIHOT",
           "summary": "09:27小互81小互开源个人IP配图技能\"小互IP Studio\"，含31个原创角色小互开源了一整套AI配图skill和31个原创角色，把“读文-定图-生图-自查”的流程装进一个命令，自媒体人装上就能用，省去调提示词的痛苦。",
-          "publishedAt": "2026-06-27T18:27:56.392Z",
+          "publishedAt": "2026-06-27T21:25:27.646Z",
           "rawSignal": 8,
           "id": "7c6b9936b816",
           "score": 55,
@@ -4776,146 +4883,6 @@
               "ai"
             ]
           }
-        },
-        {
-          "title": "00:19Berryxia.AI76Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模Ornith-1.0 不是又刷 benchmark，而是第一次把‘任务脚手架’的生成也纳入 RL 优化，这个思路可能改变 agent coding 的训练范式。MIT 开源加 GGUF，本地党可以立刻跑起来。",
-          "url": "https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye",
-          "source": "AIHOT",
-          "summary": "00:19Berryxia.AI76Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模Ornith-1.0 不是又刷 benchmark，而是第一次把‘任务脚手架’的生成也纳入 RL 优化，这个思路可能改变 agent coding 的训练范式。MIT 开源加 GGUF，本地党可以立刻跑起来。",
-          "publishedAt": "2026-06-27T18:27:56.392Z",
-          "rawSignal": 8,
-          "id": "89d36ee65b42",
-          "score": 52,
-          "scoreBreakdown": {
-            "signal": 8,
-            "relevance": 16,
-            "contentFit": 14,
-            "business": 4,
-            "recency": 10
-          },
-          "tags": [
-            "ai",
-            "agent",
-            "coding"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "AI 编程提效实测",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "观察名单",
-          "selectionReason": "入选原因：来源 AIHOT 的信号强度 8/25；AI/工具关键词：ai、agent、coding；热点场景：agent、coding。",
-          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-        }
-      ]
-    },
-    {
-      "source": "Buzzing Show HN",
-      "count": 3,
-      "averageScore": 62,
-      "items": [
-        {
-          "title": "Show HN: 人类对由AI编写代码的B2B SaaS产品进行建设性吐槽",
-          "url": "https://www.hyoomn.com/?0=",
-          "source": "Buzzing Show HN",
-          "summary": "Humans Constructively Roasting AI Coded B2B SaaS (www.hyoomn.com) 01:15 ↑ 1 HN Points",
-          "publishedAt": "2026-06-27T17:31:56.901Z",
-          "rawSignal": 16,
-          "id": "2087cba50b9d",
-          "score": 79,
-          "scoreBreakdown": {
-            "signal": 19,
-            "relevance": 16,
-            "contentFit": 14,
-            "business": 20,
-            "recency": 10
-          },
-          "tags": [
-            "ai",
-            "saas",
-            "b2b",
-            "用户吐槽",
-            "开发机会"
-          ],
-          "angles": [
-            "用户吐槽 → 开发机会",
-            "AI 工具/工作流拆解",
-            "海外 SaaS 产品机会",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 19/25；用户负反馈：吐槽；AI/工具关键词：ai；SaaS/商业关键词：saas、b2b。",
-          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-          "opportunity": {
-            "type": "用户吐槽/开发机会",
-            "complaintHits": [
-              "吐槽"
-            ],
-            "contextHits": [
-              "saas",
-              "ai",
-              "产品"
-            ]
-          }
-        },
-        {
-          "title": "Show HN: 使用 RAG 探索任何 YouTube 频道中的内容",
-          "url": "https://askchannel.ai/",
-          "source": "Buzzing Show HN",
-          "summary": "Discover content in any YouTube channel with RAG (askchannel.ai) 06-27 ↑ 1 HN Points",
-          "publishedAt": "2026-06-27T15:39:53.718Z",
-          "rawSignal": 13,
-          "id": "ec4719be3af3",
-          "score": 54,
-          "scoreBreakdown": {
-            "signal": 13,
-            "relevance": 10,
-            "contentFit": 17,
-            "business": 4,
-            "recency": 10
-          },
-          "tags": [
-            "ai",
-            "rag",
-            "content"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "观察名单",
-          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；AI/工具关键词：ai、rag；内容适配关键词：content；热点场景：rag。",
-          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-        },
-        {
-          "title": "Show HN: 从其他创始人那里获得对您在 ProductHunt 上发布产品的支持",
-          "url": "https://www.launchpact.io/",
-          "source": "Buzzing Show HN",
-          "summary": "Find support for your ProductHunt launch from fellow founders (www.launchpact.io) 00:30 ↑ 1 HN Points",
-          "publishedAt": "2026-06-27T16:43:59.085Z",
-          "rawSignal": 13,
-          "id": "560846efaa26",
-          "score": 52,
-          "scoreBreakdown": {
-            "signal": 13,
-            "relevance": 10,
-            "contentFit": 5,
-            "business": 14,
-            "recency": 10
-          },
-          "tags": [
-            "support",
-            "founder",
-            "launch"
-          ],
-          "angles": [
-            "海外 SaaS 产品机会",
-            "独立开发者/增长案例",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "独立开发案例库",
-          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；SaaS/商业关键词：support；独立开发/增长关键词：founder、launch。",
-          "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
         }
       ]
     },
@@ -5241,9 +5208,90 @@
       ]
     },
     {
-      "source": "Buzzing HN Front",
+      "source": "Buzzing Show HN",
       "count": 2,
-      "averageScore": 61,
+      "averageScore": 66,
+      "items": [
+        {
+          "title": "Show HN: 人类对由AI编写代码的B2B SaaS产品进行建设性吐槽",
+          "url": "https://www.hyoomn.com/?0=",
+          "source": "Buzzing Show HN",
+          "summary": "Humans Constructively Roasting AI Coded B2B SaaS (www.hyoomn.com) 01:15 ↑ 1 HN Points",
+          "publishedAt": "2026-06-27T17:31:56.901Z",
+          "rawSignal": 16,
+          "id": "2087cba50b9d",
+          "score": 79,
+          "scoreBreakdown": {
+            "signal": 19,
+            "relevance": 16,
+            "contentFit": 14,
+            "business": 20,
+            "recency": 10
+          },
+          "tags": [
+            "ai",
+            "saas",
+            "b2b",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "海外 SaaS 产品机会",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 19/25；用户负反馈：吐槽；AI/工具关键词：ai；SaaS/商业关键词：saas、b2b。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "吐槽"
+            ],
+            "contextHits": [
+              "saas",
+              "ai",
+              "产品"
+            ]
+          }
+        },
+        {
+          "title": "Show HN: 从其他创始人那里获得对您在 ProductHunt 上发布产品的支持",
+          "url": "https://www.launchpact.io/",
+          "source": "Buzzing Show HN",
+          "summary": "Find support for your ProductHunt launch from fellow founders (www.launchpact.io) 00:30 ↑ 1 HN Points",
+          "publishedAt": "2026-06-27T16:43:59.085Z",
+          "rawSignal": 13,
+          "id": "560846efaa26",
+          "score": 52,
+          "scoreBreakdown": {
+            "signal": 13,
+            "relevance": 10,
+            "contentFit": 5,
+            "business": 14,
+            "recency": 10
+          },
+          "tags": [
+            "support",
+            "founder",
+            "launch"
+          ],
+          "angles": [
+            "海外 SaaS 产品机会",
+            "独立开发者/增长案例",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "独立开发案例库",
+          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；SaaS/商业关键词：support；独立开发/增长关键词：founder、launch。",
+          "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
+        }
+      ]
+    },
+    {
+      "source": "Buzzing HN Front",
+      "count": 1,
+      "averageScore": 69,
       "items": [
         {
           "title": "人工智能正在设计人类甚至无法想象的无线电芯片",
@@ -5284,36 +5332,6 @@
               "ai"
             ]
           }
-        },
-        {
-          "title": "亚洲人工智能初创企业推出类似Mythos的模型",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-          "source": "Buzzing HN Front",
-          "summary": "Asian AI startups launch Mythos-like models (techcrunch.com) 06-27 ↑ 18 HN Points",
-          "publishedAt": "2026-06-27T14:03:52.445Z",
-          "rawSignal": 13,
-          "id": "eb1f31d9e5e7",
-          "score": 53,
-          "scoreBreakdown": {
-            "signal": 13,
-            "relevance": 10,
-            "contentFit": 10,
-            "business": 10,
-            "recency": 10
-          },
-          "tags": [
-            "ai",
-            "startup",
-            "launch"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "独立开发者/增长案例",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "独立开发案例库",
-          "selectionReason": "入选原因：来源 Buzzing HN Front 的信号强度 13/25；AI/工具关键词：ai；独立开发/增长关键词：startup、launch。",
-          "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
         }
       ]
     }
