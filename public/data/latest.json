@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-29T05:39:44.841Z",
-  "sourceCount": 8,
+  "generatedAt": "2026-08-29T12:17:24.425Z",
+  "sourceCount": 9,
   "itemCount": 80,
   "topItems": [
     {
-      "title": "calmrocks/ai-engineer-notebooks ★486",
+      "title": "calmrocks/ai-engineer-notebooks ★490",
       "url": "https://github.com/calmrocks/ai-engineer-notebooks",
       "source": "GitHub Trending Search",
       "summary": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, LLMOps, and customer craft. Runs on the free Groq API.",
       "publishedAt": "2026-08-11T23:17:17Z",
-      "rawSignal": 31.500231689717076,
+      "rawSignal": 31.52865193698375,
       "id": "a0b834204cb6",
       "score": 85,
       "scoreBreakdown": {
@@ -42,6 +42,52 @@
       "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
     },
     {
+      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "Buzzing Lobsters",
+      "summary": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy (arbustoemchamas.substack.com) 14:11 Lobste Comment",
+      "publishedAt": "2026-08-29T06:12:16.489Z",
+      "rawSignal": 16,
+      "id": "9928173748ab",
+      "score": 81,
+      "scoreBreakdown": {
+        "signal": 19,
+        "relevance": 20,
+        "contentFit": 20,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "coding",
+        "tool",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "AI 编程提效实测",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Buzzing Lobsters 的信号强度 19/25；用户负反馈：problem；AI/工具关键词：ai、agent、coding；内容适配关键词：tool。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "problem"
+        ],
+        "contextHits": [
+          "tool",
+          "agent",
+          "ai",
+          "工具"
+        ]
+      }
+    },
+    {
       "title": "Cripacx/mediagen ★56",
       "url": "https://github.com/Cripacx/mediagen",
       "source": "GitHub Trending Search",
@@ -49,13 +95,13 @@
       "publishedAt": "2026-08-22T23:49:10Z",
       "rawSignal": 24.04699884537993,
       "id": "7ef267dceaa9",
-      "score": 76,
+      "score": 75,
       "scoreBreakdown": {
         "signal": 24,
         "relevance": 25,
         "contentFit": 17,
         "business": 4,
-        "recency": 6
+        "recency": 5
       },
       "tags": [
         "ai",
@@ -78,47 +124,6 @@
       "recommendation": "小红书工具卡 + 实测教程",
       "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 24/25；AI/工具关键词：ai、agent、claude；内容适配关键词：content；热点场景：agent、coding、video。",
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-    },
-    {
-      "title": "不应允许您的AI代理随心所欲地写作",
-      "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
-      "source": "Buzzing Dev.to",
-      "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
-      "publishedAt": "2026-08-28T16:20:34.276Z",
-      "rawSignal": 16,
-      "id": "23bec2354ba6",
-      "score": 73,
-      "scoreBreakdown": {
-        "signal": 19,
-        "relevance": 14,
-        "contentFit": 18,
-        "business": 12,
-        "recency": 10
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "hate"
-        ],
-        "contextHits": [
-          "agent",
-          "ai"
-        ]
-      }
     },
     {
       "title": "Your AI Coding Agent Doesn't Have a Junior-Developer Problem. It Has an Amnesia Problem.",
@@ -164,6 +169,47 @@
       }
     },
     {
+      "title": "不应允许您的AI代理随心所欲地写作",
+      "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
+      "source": "Buzzing Dev.to",
+      "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
+      "publishedAt": "2026-08-28T16:20:34.276Z",
+      "rawSignal": 16,
+      "id": "23bec2354ba6",
+      "score": 72,
+      "scoreBreakdown": {
+        "signal": 19,
+        "relevance": 14,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 9
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "hate"
+        ],
+        "contextHits": [
+          "agent",
+          "ai"
+        ]
+      }
+    },
+    {
       "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
       "url": "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
       "source": "Dev.to",
@@ -195,12 +241,12 @@
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
     },
     {
-      "title": "lennney/stop-that-shit ★621",
+      "title": "lennney/stop-that-shit ★650",
       "url": "https://github.com/lennney/stop-that-shit",
       "source": "GitHub Trending Search",
       "summary": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
       "publishedAt": "2026-08-11T15:31:45Z",
-      "rawSignal": 32.350323077526554,
+      "rawSignal": 32.508647908545534,
       "id": "b9eafdaf29b2",
       "score": 71,
       "scoreBreakdown": {
@@ -224,6 +270,38 @@
       ],
       "recommendation": "小红书工具卡 + 实测教程",
       "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、gpt；热点场景：agent、workflow、coding。",
+      "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+    },
+    {
+      "title": "sodiumsun/agenttrail ★382",
+      "url": "https://github.com/sodiumsun/agenttrail",
+      "source": "GitHub Trending Search",
+      "summary": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+      "publishedAt": "2026-08-21T21:14:33Z",
+      "rawSignal": 30.665590191748983,
+      "id": "32607f1587dc",
+      "score": 71,
+      "scoreBreakdown": {
+        "signal": 25,
+        "relevance": 20,
+        "contentFit": 17,
+        "business": 4,
+        "recency": 5
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "claude",
+        "coding",
+        "tool"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "AI 编程提效实测",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "小红书工具卡 + 实测教程",
+      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、claude；内容适配关键词：tool；热点场景：agent、coding。",
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
     },
     {
@@ -257,6 +335,45 @@
       "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
     },
     {
+      "title": "我部署在云端的多代理集群通过了演示测试。但其架构仍然有问题。",
+      "url": "https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p",
+      "source": "Buzzing Dev.to",
+      "summary": "My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong. (dev.to) 08-26",
+      "publishedAt": "2026-08-29T09:08:21.953Z",
+      "rawSignal": 16,
+      "id": "c12481e5c865",
+      "score": 69,
+      "scoreBreakdown": {
+        "signal": 19,
+        "relevance": 10,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "agent",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：问题；AI/工具关键词：agent；热点场景：agent。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "问题"
+        ],
+        "contextHits": [
+          "agent"
+        ]
+      }
+    },
+    {
       "title": "affirmitv/ghosthands ★28",
       "url": "https://github.com/affirmitv/ghosthands",
       "source": "GitHub Trending Search",
@@ -287,39 +404,6 @@
       "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
     },
     {
-      "title": "ldbumble/taskuary ★38",
-      "url": "https://github.com/ldbumble/taskuary",
-      "source": "GitHub Trending Search",
-      "summary": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
-      "publishedAt": "2026-08-17T12:53:50Z",
-      "rawSignal": 22.728516856211993,
-      "id": "04e7a2adc532",
-      "score": 68,
-      "scoreBreakdown": {
-        "signal": 23,
-        "relevance": 25,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 2
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "claude",
-        "gemini",
-        "coding",
-        "email"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "AI 编程提效实测",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "小红书工具卡 + 实测教程",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、claude；热点场景：agent、coding、email。",
-      "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-    },
-    {
       "title": "I Added AI Lead Classification to My Form Tool Without Slowing Down Submissions",
       "url": "https://dev.to/allenarduino/i-added-ai-lead-classification-to-my-form-tool-without-slowing-down-submissions-3fo7",
       "source": "Dev.to",
@@ -333,7 +417,7 @@
         "relevance": 12,
         "contentFit": 17,
         "business": 16,
-        "recency": 10
+        "recency": 9
       },
       "tags": [
         "ai",
@@ -407,6 +491,70 @@
       }
     },
     {
+      "title": "ldbumble/taskuary ★38",
+      "url": "https://github.com/ldbumble/taskuary",
+      "source": "GitHub Trending Search",
+      "summary": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
+      "publishedAt": "2026-08-17T12:53:50Z",
+      "rawSignal": 22.728516856211993,
+      "id": "04e7a2adc532",
+      "score": 67,
+      "scoreBreakdown": {
+        "signal": 23,
+        "relevance": 25,
+        "contentFit": 14,
+        "business": 4,
+        "recency": 2
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "claude",
+        "gemini",
+        "coding",
+        "email"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "AI 编程提效实测",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "小红书工具卡 + 实测教程",
+      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、claude；热点场景：agent、coding、email。",
+      "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+    },
+    {
+      "title": "JordyZomer/lemmalog ★77",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "source": "GitHub Trending Search",
+      "summary": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "publishedAt": "2026-08-27T07:06:55Z",
+      "rawSignal": 25.136756821523843,
+      "id": "1bcc29f9f814",
+      "score": 67,
+      "scoreBreakdown": {
+        "signal": 25,
+        "relevance": 16,
+        "contentFit": 14,
+        "business": 4,
+        "recency": 8
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "llm",
+        "mcp"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "MCP 生态应用清单",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "小红书工具卡 + 实测教程",
+      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent、mcp。",
+      "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+    },
+    {
       "title": "I Tested 5 Design to Code Tools With the Same Outdated SaaS Dashboard",
       "url": "https://dev.to/hadil/i-tested-5-design-to-code-tools-with-the-same-outdated-saas-dashboard-1ijk",
       "source": "Dev.to",
@@ -437,12 +585,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "Stupidoodle/swissdevjobs-cli ★88",
+      "title": "Stupidoodle/swissdevjobs-cli ★91",
       "url": "https://github.com/Stupidoodle/swissdevjobs-cli",
       "source": "GitHub Trending Search",
       "summary": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
       "publishedAt": "2026-08-24T19:59:58Z",
-      "rawSignal": 25.595120053159302,
+      "rawSignal": 25.71030261876444,
       "id": "88a1e37dfe71",
       "score": 66,
       "scoreBreakdown": {
@@ -537,66 +685,45 @@
       }
     },
     {
-      "title": "crane-in-clear-sky/WorkWit-AI-Agent ★90",
-      "url": "https://github.com/crane-in-clear-sky/WorkWit-AI-Agent",
-      "source": "GitHub Trending Search",
-      "summary": "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose.",
-      "publishedAt": "2026-08-20T02:50:06Z",
-      "rawSignal": 25.67233113856875,
-      "id": "d2cbbc60b7af",
+      "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+      "source": "Hacker News",
+      "summary": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "publishedAt": "2026-08-29T07:36:35Z",
+      "rawSignal": 8.083333333333334,
+      "id": "6d19621b60cf",
       "score": 65,
       "scoreBreakdown": {
-        "signal": 25,
-        "relevance": 18,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 4
+        "signal": 11,
+        "relevance": 14,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 10
       },
       "tags": [
         "ai",
         "agent",
-        "automation",
-        "mcp"
+        "用户吐槽",
+        "开发机会"
       ],
       "angles": [
+        "用户吐槽 → 开发机会",
         "AI 工具/工作流拆解",
-        "MCP 生态应用清单",
         "小红书卡片：痛点-工具-结果"
       ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、automation；热点场景：agent、automation、mcp。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-    },
-    {
-      "title": "JordyZomer/lemmalog ★38",
-      "url": "https://github.com/JordyZomer/lemmalog",
-      "source": "GitHub Trending Search",
-      "summary": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-      "publishedAt": "2026-08-27T07:06:55Z",
-      "rawSignal": 22.728516856211993,
-      "id": "1bcc29f9f814",
-      "score": 65,
-      "scoreBreakdown": {
-        "signal": 23,
-        "relevance": 16,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 9
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "llm",
-        "mcp"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "MCP 生态应用清单",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "小红书工具卡 + 实测教程",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、llm；热点场景：agent、mcp。",
-      "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、agent；热点场景：agent。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "problem"
+        ],
+        "contextHits": [
+          "agent",
+          "ai"
+        ]
+      }
     },
     {
       "title": "Lenz - 适用于 AI 工作流的独立、多模型事实核查 API",
@@ -629,7 +756,70 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "CopilotKit/OpenBot ★3328",
+      "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+      "url": "https://itsuki.app/",
+      "source": "Buzzing Show HN",
+      "summary": "Itsuki – open-source memory engine for AI agents (API and MCP) (itsuki.app) 15:50 ↑ 1 HN Points",
+      "publishedAt": "2026-08-29T08:04:13.465Z",
+      "rawSignal": 13,
+      "id": "a1be2c8dd46d",
+      "score": 64,
+      "scoreBreakdown": {
+        "signal": 13,
+        "relevance": 16,
+        "contentFit": 14,
+        "business": 11,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "api",
+        "mcp"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "海外 SaaS 产品机会",
+        "MCP 生态应用清单",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "快讯/素材池追踪",
+      "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；AI/工具关键词：ai、agent；SaaS/商业关键词：api；热点场景：agent、mcp。",
+      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+    },
+    {
+      "title": "crane-in-clear-sky/WorkWit-AI-Agent ★90",
+      "url": "https://github.com/crane-in-clear-sky/WorkWit-AI-Agent",
+      "source": "GitHub Trending Search",
+      "summary": "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose.",
+      "publishedAt": "2026-08-20T02:50:06Z",
+      "rawSignal": 25.67233113856875,
+      "id": "d2cbbc60b7af",
+      "score": 64,
+      "scoreBreakdown": {
+        "signal": 25,
+        "relevance": 18,
+        "contentFit": 14,
+        "business": 4,
+        "recency": 3
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "automation",
+        "mcp"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "MCP 生态应用清单",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "快讯/素材池追踪",
+      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、automation；热点场景：agent、automation、mcp。",
+      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+    },
+    {
+      "title": "CopilotKit/OpenBot ★3364",
       "url": "https://github.com/CopilotKit/OpenBot",
       "source": "GitHub Trending Search",
       "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
@@ -661,41 +851,12 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "BraxisAI/braxis-blueprint ★84",
-      "url": "https://github.com/BraxisAI/braxis-blueprint",
-      "source": "GitHub Trending Search",
-      "summary": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
-      "publishedAt": "2026-08-23T00:19:10Z",
-      "rawSignal": 25.435351405714343,
-      "id": "ceae8a82cff2",
-      "score": 63,
-      "scoreBreakdown": {
-        "signal": 25,
-        "relevance": 14,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 6
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "llm"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-    },
-    {
-      "title": "kgoedecke/doop ★491",
+      "title": "kgoedecke/doop ★494",
       "url": "https://github.com/kgoedecke/doop",
       "source": "GitHub Trending Search",
       "summary": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
       "publishedAt": "2026-08-22T15:40:51Z",
-      "rawSignal": 31.535720822138885,
+      "rawSignal": 31.55684159146855,
       "id": "6823c8dc9877",
       "score": 62,
       "scoreBreakdown": {
@@ -718,6 +879,35 @@
       ],
       "recommendation": "快讯/素材池追踪",
       "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent、mcp、design。",
+      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+    },
+    {
+      "title": "BraxisAI/braxis-blueprint ★84",
+      "url": "https://github.com/BraxisAI/braxis-blueprint",
+      "source": "GitHub Trending Search",
+      "summary": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+      "publishedAt": "2026-08-23T00:19:10Z",
+      "rawSignal": 25.435351405714343,
+      "id": "ceae8a82cff2",
+      "score": 62,
+      "scoreBreakdown": {
+        "signal": 25,
+        "relevance": 14,
+        "contentFit": 14,
+        "business": 4,
+        "recency": 5
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "llm"
+      ],
+      "angles": [
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "快讯/素材池追踪",
+      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent。",
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
@@ -760,65 +950,6 @@
           "tool"
         ]
       }
-    },
-    {
-      "title": "I Built a GTM Research Workflow with One Vaaya API Key",
-      "url": "https://dev.to/nehaaaa6/i-built-a-gtm-research-workflow-with-one-vaaya-api-key-49if",
-      "source": "Dev.to",
-      "summary": "I wanted to see how far I could take a simple idea: Give an agent one API key and let it handle the...",
-      "publishedAt": "2026-08-27T06:26:44Z",
-      "rawSignal": 9,
-      "id": "6f1a8a29f80a",
-      "score": 62,
-      "scoreBreakdown": {
-        "signal": 9,
-        "relevance": 16,
-        "contentFit": 14,
-        "business": 14,
-        "recency": 9
-      },
-      "tags": [
-        "agent",
-        "workflow",
-        "api"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "海外 SaaS 产品机会",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 Dev.to 的信号强度 9/25；AI/工具关键词：agent、workflow；SaaS/商业关键词：api；热点场景：agent、workflow。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-    },
-    {
-      "title": "jaredrhod/fullstack-agent ★455",
-      "url": "https://github.com/jaredrhod/fullstack-agent",
-      "source": "GitHub Trending Search",
-      "summary": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
-      "publishedAt": "2026-08-17T04:00:03Z",
-      "rawSignal": 31.271718741315482,
-      "id": "b8f9a98bae0a",
-      "score": 61,
-      "scoreBreakdown": {
-        "signal": 25,
-        "relevance": 16,
-        "contentFit": 14,
-        "business": 4,
-        "recency": 2
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "voice"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、voice；热点场景：agent、voice。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
       "title": "nduc99911/repo-context-mcp ★104",
@@ -884,127 +1015,25 @@
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     },
     {
-      "title": "Stop asking your AI agent to follow rules. Enforce them.",
-      "url": "https://dev.to/toffy/stop-asking-your-ai-agent-to-follow-rules-enforce-them-4mlo",
+      "title": "I Built a GTM Research Workflow with One Vaaya API Key",
+      "url": "https://dev.to/nehaaaa6/i-built-a-gtm-research-workflow-with-one-vaaya-api-key-49if",
       "source": "Dev.to",
-      "summary": "I moved the grep-able half of my coding rules from prompts to Claude Code hooks. Rule adherence went from probabilistic to 100% — and suddenly running Haiku as a builder stopped being reckless.",
-      "publishedAt": "2026-08-25T15:25:37Z",
-      "rawSignal": 12.8,
-      "id": "05a6f521b423",
+      "summary": "I wanted to see how far I could take a simple idea: Give an agent one API key and let it handle the...",
+      "publishedAt": "2026-08-27T06:26:44Z",
+      "rawSignal": 9,
+      "id": "6f1a8a29f80a",
       "score": 61,
       "scoreBreakdown": {
-        "signal": 13,
-        "relevance": 20,
-        "contentFit": 17,
-        "business": 4,
-        "recency": 7
-      },
-      "tags": [
-        "ai",
-        "agent",
-        "claude",
-        "coding",
-        "prompt"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "AI 编程提效实测",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 Dev.to 的信号强度 13/25；AI/工具关键词：ai、agent、claude；内容适配关键词：prompt；热点场景：agent、coding。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-    },
-    {
-      "title": "Evidence Core - 使用编程代理构建实时分析功能",
-      "url": "https://www.producthunt.com/r/TARLW7EHGAYT22",
-      "source": "Buzzing Product Hunt",
-      "summary": "Build live analytics with coding agents (www.producthunt.com) 08-26 ↑ 114 PH Upvotes",
-      "publishedAt": "2026-08-28T07:16:21.067Z",
-      "rawSignal": 13,
-      "id": "48571e25aebd",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 13,
+        "signal": 9,
         "relevance": 16,
         "contentFit": 14,
-        "business": 8,
-        "recency": 9
+        "business": 14,
+        "recency": 8
       },
       "tags": [
         "agent",
-        "coding",
-        "analytics"
-      ],
-      "angles": [
-        "AI 工具/工作流拆解",
-        "海外 SaaS 产品机会",
-        "AI 编程提效实测",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：agent、coding；SaaS/商业关键词：analytics；热点场景：agent、coding。",
-      "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-    },
-    {
-      "title": "Show HN: Crunchbase替代平台限时免费提供终身专业版使用权限",
-      "url": "https://startupwiki.tech/blog/free-lifetime-pro-giveaway",
-      "source": "Buzzing Show HN",
-      "summary": "Free lifetime pro access for limited time to crunchbase alternative (startupwiki.tech) 08:50 ↑ 1 HN Points",
-      "publishedAt": "2026-08-29T01:08:33.756Z",
-      "rawSignal": 16,
-      "id": "706d2716bc25",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 19,
-        "relevance": 7,
-        "contentFit": 9,
-        "business": 15,
-        "recency": 10
-      },
-      "tags": [
-        "startup",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "独立开发者/增长案例",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 19/25；用户负反馈：替代；独立开发/增长关键词：startup。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "替代"
-        ],
-        "contextHits": [
-          "平台"
-        ]
-      }
-    },
-    {
-      "title": "nexpeakcore/deepseek-harness-pr-review ★42",
-      "url": "https://github.com/nexpeakcore/deepseek-harness-pr-review",
-      "source": "GitHub Trending Search",
-      "summary": "AI code review with DeepSeek: headless PR review automation that verifies PR descriptions claim-by-claim against real code, checks docs against reality, flags requirement impact, human-in-the-loop + auto review poller + web dashboard",
-      "publishedAt": "2026-08-16T05:51:52Z",
-      "rawSignal": 23.067747644636693,
-      "id": "5e04662d854a",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 23,
-        "relevance": 14,
-        "contentFit": 14,
-        "business": 8,
-        "recency": 1
-      },
-      "tags": [
-        "ai",
-        "automation",
-        "dashboard"
+        "workflow",
+        "api"
       ],
       "angles": [
         "AI 工具/工作流拆解",
@@ -1012,49 +1041,54 @@
         "小红书卡片：痛点-工具-结果"
       ],
       "recommendation": "快讯/素材池追踪",
-      "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、automation；SaaS/商业关键词：dashboard；热点场景：automation。",
+      "selectionReason": "入选原因：来源 Dev.to 的信号强度 9/25；AI/工具关键词：agent、workflow；SaaS/商业关键词：api；热点场景：agent、workflow。",
       "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
     }
   ],
   "opportunityItems": [
     {
-      "title": "不应允许您的AI代理随心所欲地写作",
-      "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
-      "source": "Buzzing Dev.to",
-      "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
-      "publishedAt": "2026-08-28T16:20:34.276Z",
+      "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+      "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+      "source": "Buzzing Lobsters",
+      "summary": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy (arbustoemchamas.substack.com) 14:11 Lobste Comment",
+      "publishedAt": "2026-08-29T06:12:16.489Z",
       "rawSignal": 16,
-      "id": "23bec2354ba6",
-      "score": 73,
+      "id": "9928173748ab",
+      "score": 81,
       "scoreBreakdown": {
         "signal": 19,
-        "relevance": 14,
-        "contentFit": 18,
+        "relevance": 20,
+        "contentFit": 20,
         "business": 12,
         "recency": 10
       },
       "tags": [
         "ai",
         "agent",
+        "coding",
+        "tool",
         "用户吐槽",
         "开发机会"
       ],
       "angles": [
         "用户吐槽 → 开发机会",
         "AI 工具/工作流拆解",
+        "AI 编程提效实测",
         "小红书卡片：痛点-工具-结果"
       ],
       "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+      "selectionReason": "入选原因：来源 Buzzing Lobsters 的信号强度 19/25；用户负反馈：problem；AI/工具关键词：ai、agent、coding；内容适配关键词：tool。",
       "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
       "opportunity": {
         "type": "用户吐槽/开发机会",
         "complaintHits": [
-          "hate"
+          "problem"
         ],
         "contextHits": [
+          "tool",
           "agent",
-          "ai"
+          "ai",
+          "工具"
         ]
       }
     },
@@ -1102,6 +1136,86 @@
       }
     },
     {
+      "title": "不应允许您的AI代理随心所欲地写作",
+      "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
+      "source": "Buzzing Dev.to",
+      "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
+      "publishedAt": "2026-08-28T16:20:34.276Z",
+      "rawSignal": 16,
+      "id": "23bec2354ba6",
+      "score": 72,
+      "scoreBreakdown": {
+        "signal": 19,
+        "relevance": 14,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 9
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "hate"
+        ],
+        "contextHits": [
+          "agent",
+          "ai"
+        ]
+      }
+    },
+    {
+      "title": "我部署在云端的多代理集群通过了演示测试。但其架构仍然有问题。",
+      "url": "https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p",
+      "source": "Buzzing Dev.to",
+      "summary": "My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong. (dev.to) 08-26",
+      "publishedAt": "2026-08-29T09:08:21.953Z",
+      "rawSignal": 16,
+      "id": "c12481e5c865",
+      "score": 69,
+      "scoreBreakdown": {
+        "signal": 19,
+        "relevance": 10,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "agent",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：问题；AI/工具关键词：agent；热点场景：agent。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "问题"
+        ],
+        "contextHits": [
+          "agent"
+        ]
+      }
+    },
+    {
       "title": "I Added AI Lead Classification to My Form Tool Without Slowing Down Submissions",
       "url": "https://dev.to/allenarduino/i-added-ai-lead-classification-to-my-form-tool-without-slowing-down-submissions-3fo7",
       "source": "Dev.to",
@@ -1115,7 +1229,7 @@
         "relevance": 12,
         "contentFit": 17,
         "business": 16,
-        "recency": 10
+        "recency": 9
       },
       "tags": [
         "ai",
@@ -1228,6 +1342,47 @@
       }
     },
     {
+      "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+      "source": "Hacker News",
+      "summary": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+      "publishedAt": "2026-08-29T07:36:35Z",
+      "rawSignal": 8.083333333333334,
+      "id": "6d19621b60cf",
+      "score": 65,
+      "scoreBreakdown": {
+        "signal": 11,
+        "relevance": 14,
+        "contentFit": 18,
+        "business": 12,
+        "recency": 10
+      },
+      "tags": [
+        "ai",
+        "agent",
+        "用户吐槽",
+        "开发机会"
+      ],
+      "angles": [
+        "用户吐槽 → 开发机会",
+        "AI 工具/工作流拆解",
+        "小红书卡片：痛点-工具-结果"
+      ],
+      "recommendation": "用户吐槽/开发机会",
+      "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、agent；热点场景：agent。",
+      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+      "opportunity": {
+        "type": "用户吐槽/开发机会",
+        "complaintHits": [
+          "problem"
+        ],
+        "contextHits": [
+          "agent",
+          "ai"
+        ]
+      }
+    },
+    {
       "title": "How we built a customer health score you can argue with",
       "url": "https://dev.to/jay_bheda_62a47fb51575cd1/how-we-built-a-customer-health-score-you-can-argue-with-13hi",
       "source": "Dev.to",
@@ -1265,45 +1420,6 @@
         ],
         "contextHits": [
           "tool"
-        ]
-      }
-    },
-    {
-      "title": "Show HN: Crunchbase替代平台限时免费提供终身专业版使用权限",
-      "url": "https://startupwiki.tech/blog/free-lifetime-pro-giveaway",
-      "source": "Buzzing Show HN",
-      "summary": "Free lifetime pro access for limited time to crunchbase alternative (startupwiki.tech) 08:50 ↑ 1 HN Points",
-      "publishedAt": "2026-08-29T01:08:33.756Z",
-      "rawSignal": 16,
-      "id": "706d2716bc25",
-      "score": 60,
-      "scoreBreakdown": {
-        "signal": 19,
-        "relevance": 7,
-        "contentFit": 9,
-        "business": 15,
-        "recency": 10
-      },
-      "tags": [
-        "startup",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "独立开发者/增长案例",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 19/25；用户负反馈：替代；独立开发/增长关键词：startup。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "替代"
-        ],
-        "contextHits": [
-          "平台"
         ]
       }
     },
@@ -1433,95 +1549,17 @@
           "ai"
         ]
       }
-    },
-    {
-      "title": "Sam Altman says the economy is adapting to AI slower than he expected",
-      "url": "https://www.businessinsider.com/sam-altman-economy-ai-adapting-saas-2026-8",
-      "source": "Hacker News",
-      "summary": "Sam Altman says the economy is adapting to AI slower than he expected",
-      "publishedAt": "2026-08-27T21:08:40Z",
-      "rawSignal": 8.625,
-      "id": "9c532e899b50",
-      "score": 55,
-      "scoreBreakdown": {
-        "signal": 12,
-        "relevance": 8,
-        "contentFit": 14,
-        "business": 12,
-        "recency": 9
-      },
-      "tags": [
-        "ai",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "AI 工具/工作流拆解",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Hacker News 的信号强度 12/25；用户负反馈：slow；AI/工具关键词：ai。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "slow"
-        ],
-        "contextHits": [
-          "ai"
-        ]
-      }
-    },
-    {
-      "title": "我开发了一个\"免登录\"的GIF转Lottie工具，以此摆脱对After Effects的依赖。刚获得首批付费客户，现需征询意见：当前功能是否存在缺失？",
-      "url": "https://old.reddit.com/r/SideProject/comments/1qxhxw6/i_built_a_nologin_gif_to_lottie_converter_to/",
-      "source": "Buzzing SideProject",
-      "summary": "I built a \"No-Login\" GIF to Lottie converter to escape After Effects. Just got my first paying customers and need advice on what''s missing. (old.reddit.com) 02-06 ↑ 3 Reddit Upvotes",
-      "publishedAt": "2026-02-06T18:56:51.980Z",
-      "rawSignal": 16,
-      "id": "79b14559b58a",
-      "score": 52,
-      "scoreBreakdown": {
-        "signal": 19,
-        "relevance": 8,
-        "contentFit": 9,
-        "business": 16,
-        "recency": 0
-      },
-      "tags": [
-        "customer",
-        "用户吐槽",
-        "开发机会"
-      ],
-      "angles": [
-        "用户吐槽 → 开发机会",
-        "海外 SaaS 产品机会",
-        "小红书卡片：痛点-工具-结果"
-      ],
-      "recommendation": "用户吐槽/开发机会",
-      "selectionReason": "入选原因：来源 Buzzing SideProject 的信号强度 19/25；用户负反馈：missing；SaaS/商业关键词：customer。",
-      "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-      "opportunity": {
-        "type": "用户吐槽/开发机会",
-        "complaintHits": [
-          "missing"
-        ],
-        "contextHits": [
-          "工具"
-        ]
-      }
     }
   ],
   "byAction": {
     "公众号深度文 + SaaS 机会评估": [
       {
-        "title": "calmrocks/ai-engineer-notebooks ★486",
+        "title": "calmrocks/ai-engineer-notebooks ★490",
         "url": "https://github.com/calmrocks/ai-engineer-notebooks",
         "source": "GitHub Trending Search",
         "summary": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, LLMOps, and customer craft. Runs on the free Groq API.",
         "publishedAt": "2026-08-11T23:17:17Z",
-        "rawSignal": 31.500231689717076,
+        "rawSignal": 31.52865193698375,
         "id": "a0b834204cb6",
         "score": 85,
         "scoreBreakdown": {
@@ -1584,303 +1622,50 @@
         "nextAction": "建议：先做 30 分钟资料核验，拆成“痛点 → 现有方案 → 商业化机会 → 可复制工作流”，再决定是否写公众号深度文。"
       }
     ],
-    "小红书工具卡 + 实测教程": [
-      {
-        "title": "Cripacx/mediagen ★56",
-        "url": "https://github.com/Cripacx/mediagen",
-        "source": "GitHub Trending Search",
-        "summary": "AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
-        "publishedAt": "2026-08-22T23:49:10Z",
-        "rawSignal": 24.04699884537993,
-        "id": "7ef267dceaa9",
-        "score": 76,
-        "scoreBreakdown": {
-          "signal": 24,
-          "relevance": 25,
-          "contentFit": 17,
-          "business": 4,
-          "recency": 6
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "claude",
-          "gemini",
-          "openai",
-          "image",
-          "video",
-          "coding",
-          "content",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 24/25；AI/工具关键词：ai、agent、claude；内容适配关键词：content；热点场景：agent、coding、video。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
-        "url": "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
-        "source": "Dev.to",
-        "summary": "There are two kinds of articles about coding with AI. The ones that generate a sorting function and...",
-        "publishedAt": "2026-08-24T04:02:37Z",
-        "rawSignal": 28,
-        "id": "844f8269bc54",
-        "score": 72,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 20,
-          "contentFit": 14,
-          "business": 7,
-          "recency": 6
-        },
-        "tags": [
-          "ai",
-          "claude",
-          "workflow",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、claude、workflow；热点场景：workflow、coding。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "lennney/stop-that-shit ★621",
-        "url": "https://github.com/lennney/stop-that-shit",
-        "source": "GitHub Trending Search",
-        "summary": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
-        "publishedAt": "2026-08-11T15:31:45Z",
-        "rawSignal": 32.350323077526554,
-        "id": "b9eafdaf29b2",
-        "score": 71,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 25,
-          "contentFit": 14,
-          "business": 7,
-          "recency": 0
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "gpt",
-          "workflow",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、gpt；热点场景：agent、workflow、coding。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "affirmitv/ghosthands ★28",
-        "url": "https://github.com/affirmitv/ghosthands",
-        "source": "GitHub Trending Search",
-        "summary": "Give an agent real hands and eyes: undetectable, DOM-independent GUI automation. A $4 USB-HID microcontroller for hands, a vision grounding model for eyes, any LLM for a brain.",
-        "publishedAt": "2026-08-27T20:33:15Z",
-        "rawSignal": 21.69918398319165,
-        "id": "ef0eb3c9c3e0",
-        "score": 69,
-        "scoreBreakdown": {
-          "signal": 22,
-          "relevance": 20,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "llm",
-          "automation"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 22/25；AI/工具关键词：ai、agent、llm；热点场景：agent、automation。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "ldbumble/taskuary ★38",
-        "url": "https://github.com/ldbumble/taskuary",
-        "source": "GitHub Trending Search",
-        "summary": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
-        "publishedAt": "2026-08-17T12:53:50Z",
-        "rawSignal": 22.728516856211993,
-        "id": "04e7a2adc532",
-        "score": 68,
-        "scoreBreakdown": {
-          "signal": 23,
-          "relevance": 25,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 2
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "claude",
-          "gemini",
-          "coding",
-          "email"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、claude；热点场景：agent、coding、email。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "Stupidoodle/swissdevjobs-cli ★88",
-        "url": "https://github.com/Stupidoodle/swissdevjobs-cli",
-        "source": "GitHub Trending Search",
-        "summary": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
-        "publishedAt": "2026-08-24T19:59:58Z",
-        "rawSignal": 25.595120053159302,
-        "id": "88a1e37dfe71",
-        "score": 66,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 7
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "claude",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、claude；热点场景：agent、mcp。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "What Do You Do While AI Codes?",
-        "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-        "source": "Dev.to",
-        "summary": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
-        "publishedAt": "2026-08-25T13:36:11Z",
-        "rawSignal": 28,
-        "id": "263802c06b30",
-        "score": 66,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 7
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、agent、coding；热点场景：agent、coding。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      },
-      {
-        "title": "JordyZomer/lemmalog ★38",
-        "url": "https://github.com/JordyZomer/lemmalog",
-        "source": "GitHub Trending Search",
-        "summary": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
-        "publishedAt": "2026-08-27T07:06:55Z",
-        "rawSignal": 22.728516856211993,
-        "id": "1bcc29f9f814",
-        "score": 65,
-        "scoreBreakdown": {
-          "signal": 23,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "llm",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "小红书工具卡 + 实测教程",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、llm；热点场景：agent、mcp。",
-        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-      }
-    ],
     "用户吐槽/开发机会": [
       {
-        "title": "不应允许您的AI代理随心所欲地写作",
-        "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
-        "source": "Buzzing Dev.to",
-        "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
-        "publishedAt": "2026-08-28T16:20:34.276Z",
+        "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+        "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+        "source": "Buzzing Lobsters",
+        "summary": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy (arbustoemchamas.substack.com) 14:11 Lobste Comment",
+        "publishedAt": "2026-08-29T06:12:16.489Z",
         "rawSignal": 16,
-        "id": "23bec2354ba6",
-        "score": 73,
+        "id": "9928173748ab",
+        "score": 81,
         "scoreBreakdown": {
           "signal": 19,
-          "relevance": 14,
-          "contentFit": 18,
+          "relevance": 20,
+          "contentFit": 20,
           "business": 12,
           "recency": 10
         },
         "tags": [
           "ai",
           "agent",
+          "coding",
+          "tool",
           "用户吐槽",
           "开发机会"
         ],
         "angles": [
           "用户吐槽 → 开发机会",
           "AI 工具/工作流拆解",
+          "AI 编程提效实测",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+        "selectionReason": "入选原因：来源 Buzzing Lobsters 的信号强度 19/25；用户负反馈：problem；AI/工具关键词：ai、agent、coding；内容适配关键词：tool。",
         "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
         "opportunity": {
           "type": "用户吐槽/开发机会",
           "complaintHits": [
-            "hate"
+            "problem"
           ],
           "contextHits": [
+            "tool",
             "agent",
-            "ai"
+            "ai",
+            "工具"
           ]
         }
       },
@@ -1928,6 +1713,86 @@
         }
       },
       {
+        "title": "不应允许您的AI代理随心所欲地写作",
+        "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
+        "source": "Buzzing Dev.to",
+        "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
+        "publishedAt": "2026-08-28T16:20:34.276Z",
+        "rawSignal": 16,
+        "id": "23bec2354ba6",
+        "score": 72,
+        "scoreBreakdown": {
+          "signal": 19,
+          "relevance": 14,
+          "contentFit": 18,
+          "business": 12,
+          "recency": 9
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "hate"
+          ],
+          "contextHits": [
+            "agent",
+            "ai"
+          ]
+        }
+      },
+      {
+        "title": "我部署在云端的多代理集群通过了演示测试。但其架构仍然有问题。",
+        "url": "https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p",
+        "source": "Buzzing Dev.to",
+        "summary": "My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong. (dev.to) 08-26",
+        "publishedAt": "2026-08-29T09:08:21.953Z",
+        "rawSignal": 16,
+        "id": "c12481e5c865",
+        "score": 69,
+        "scoreBreakdown": {
+          "signal": 19,
+          "relevance": 10,
+          "contentFit": 18,
+          "business": 12,
+          "recency": 10
+        },
+        "tags": [
+          "agent",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：问题；AI/工具关键词：agent；热点场景：agent。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "问题"
+          ],
+          "contextHits": [
+            "agent"
+          ]
+        }
+      },
+      {
         "title": "I Added AI Lead Classification to My Form Tool Without Slowing Down Submissions",
         "url": "https://dev.to/allenarduino/i-added-ai-lead-classification-to-my-form-tool-without-slowing-down-submissions-3fo7",
         "source": "Dev.to",
@@ -1941,7 +1806,7 @@
           "relevance": 12,
           "contentFit": 17,
           "business": 16,
-          "recency": 10
+          "recency": 9
         },
         "tags": [
           "ai",
@@ -2054,6 +1919,47 @@
         }
       },
       {
+        "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+        "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+        "source": "Hacker News",
+        "summary": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+        "publishedAt": "2026-08-29T07:36:35Z",
+        "rawSignal": 8.083333333333334,
+        "id": "6d19621b60cf",
+        "score": 65,
+        "scoreBreakdown": {
+          "signal": 11,
+          "relevance": 14,
+          "contentFit": 18,
+          "business": 12,
+          "recency": 10
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "用户吐槽",
+          "开发机会"
+        ],
+        "angles": [
+          "用户吐槽 → 开发机会",
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "用户吐槽/开发机会",
+        "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、agent；热点场景：agent。",
+        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+        "opportunity": {
+          "type": "用户吐槽/开发机会",
+          "complaintHits": [
+            "problem"
+          ],
+          "contextHits": [
+            "agent",
+            "ai"
+          ]
+        }
+      },
+      {
         "title": "How we built a customer health score you can argue with",
         "url": "https://dev.to/jay_bheda_62a47fb51575cd1/how-we-built-a-customer-health-score-you-can-argue-with-13hi",
         "source": "Dev.to",
@@ -2091,45 +1997,6 @@
           ],
           "contextHits": [
             "tool"
-          ]
-        }
-      },
-      {
-        "title": "Show HN: Crunchbase替代平台限时免费提供终身专业版使用权限",
-        "url": "https://startupwiki.tech/blog/free-lifetime-pro-giveaway",
-        "source": "Buzzing Show HN",
-        "summary": "Free lifetime pro access for limited time to crunchbase alternative (startupwiki.tech) 08:50 ↑ 1 HN Points",
-        "publishedAt": "2026-08-29T01:08:33.756Z",
-        "rawSignal": 16,
-        "id": "706d2716bc25",
-        "score": 60,
-        "scoreBreakdown": {
-          "signal": 19,
-          "relevance": 7,
-          "contentFit": 9,
-          "business": 15,
-          "recency": 10
-        },
-        "tags": [
-          "startup",
-          "用户吐槽",
-          "开发机会"
-        ],
-        "angles": [
-          "用户吐槽 → 开发机会",
-          "独立开发者/增长案例",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 19/25；用户负反馈：替代；独立开发/增长关键词：startup。",
-        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-        "opportunity": {
-          "type": "用户吐槽/开发机会",
-          "complaintHits": [
-            "替代"
-          ],
-          "contextHits": [
-            "平台"
           ]
         }
       },
@@ -2268,7 +2135,7 @@
         "publishedAt": "2026-08-27T21:08:40Z",
         "rawSignal": 8.625,
         "id": "9c532e899b50",
-        "score": 55,
+        "score": 54,
         "scoreBreakdown": {
           "signal": 12,
           "relevance": 8,
@@ -2298,45 +2165,296 @@
             "ai"
           ]
         }
+      }
+    ],
+    "小红书工具卡 + 实测教程": [
+      {
+        "title": "Cripacx/mediagen ★56",
+        "url": "https://github.com/Cripacx/mediagen",
+        "source": "GitHub Trending Search",
+        "summary": "AI image and video generation skill for Claude Code and other coding agents — Gemini, OpenAI and Kie AI behind one CLI and MCP server, with EU AI Act content marking.",
+        "publishedAt": "2026-08-22T23:49:10Z",
+        "rawSignal": 24.04699884537993,
+        "id": "7ef267dceaa9",
+        "score": 75,
+        "scoreBreakdown": {
+          "signal": 24,
+          "relevance": 25,
+          "contentFit": 17,
+          "business": 4,
+          "recency": 5
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "claude",
+          "gemini",
+          "openai",
+          "image",
+          "video",
+          "coding",
+          "content",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 24/25；AI/工具关键词：ai、agent、claude；内容适配关键词：content；热点场景：agent、coding、video。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       },
       {
-        "title": "我开发了一个\"免登录\"的GIF转Lottie工具，以此摆脱对After Effects的依赖。刚获得首批付费客户，现需征询意见：当前功能是否存在缺失？",
-        "url": "https://old.reddit.com/r/SideProject/comments/1qxhxw6/i_built_a_nologin_gif_to_lottie_converter_to/",
-        "source": "Buzzing SideProject",
-        "summary": "I built a \"No-Login\" GIF to Lottie converter to escape After Effects. Just got my first paying customers and need advice on what''s missing. (old.reddit.com) 02-06 ↑ 3 Reddit Upvotes",
-        "publishedAt": "2026-02-06T18:56:51.980Z",
-        "rawSignal": 16,
-        "id": "79b14559b58a",
-        "score": 52,
+        "title": "How I Actually Code with Claude Code: My Real Workflow on a Real Project",
+        "url": "https://dev.to/gabbs279/how-i-actually-code-with-claude-code-my-real-workflow-on-a-real-project-4ao0",
+        "source": "Dev.to",
+        "summary": "There are two kinds of articles about coding with AI. The ones that generate a sorting function and...",
+        "publishedAt": "2026-08-24T04:02:37Z",
+        "rawSignal": 28,
+        "id": "844f8269bc54",
+        "score": 72,
         "scoreBreakdown": {
-          "signal": 19,
-          "relevance": 8,
-          "contentFit": 9,
-          "business": 16,
+          "signal": 25,
+          "relevance": 20,
+          "contentFit": 14,
+          "business": 7,
+          "recency": 6
+        },
+        "tags": [
+          "ai",
+          "claude",
+          "workflow",
+          "coding"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、claude、workflow；热点场景：workflow、coding。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "lennney/stop-that-shit ★650",
+        "url": "https://github.com/lennney/stop-that-shit",
+        "source": "GitHub Trending Search",
+        "summary": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
+        "publishedAt": "2026-08-11T15:31:45Z",
+        "rawSignal": 32.508647908545534,
+        "id": "b9eafdaf29b2",
+        "score": 71,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 25,
+          "contentFit": 14,
+          "business": 7,
           "recency": 0
         },
         "tags": [
-          "customer",
-          "用户吐槽",
-          "开发机会"
+          "ai",
+          "agent",
+          "gpt",
+          "workflow",
+          "coding"
         ],
         "angles": [
-          "用户吐槽 → 开发机会",
-          "海外 SaaS 产品机会",
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
           "小红书卡片：痛点-工具-结果"
         ],
-        "recommendation": "用户吐槽/开发机会",
-        "selectionReason": "入选原因：来源 Buzzing SideProject 的信号强度 19/25；用户负反馈：missing；SaaS/商业关键词：customer。",
-        "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-        "opportunity": {
-          "type": "用户吐槽/开发机会",
-          "complaintHits": [
-            "missing"
-          ],
-          "contextHits": [
-            "工具"
-          ]
-        }
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、gpt；热点场景：agent、workflow、coding。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "sodiumsun/agenttrail ★382",
+        "url": "https://github.com/sodiumsun/agenttrail",
+        "source": "GitHub Trending Search",
+        "summary": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+        "publishedAt": "2026-08-21T21:14:33Z",
+        "rawSignal": 30.665590191748983,
+        "id": "32607f1587dc",
+        "score": 71,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 20,
+          "contentFit": 17,
+          "business": 4,
+          "recency": 5
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "claude",
+          "coding",
+          "tool"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、claude；内容适配关键词：tool；热点场景：agent、coding。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "affirmitv/ghosthands ★28",
+        "url": "https://github.com/affirmitv/ghosthands",
+        "source": "GitHub Trending Search",
+        "summary": "Give an agent real hands and eyes: undetectable, DOM-independent GUI automation. A $4 USB-HID microcontroller for hands, a vision grounding model for eyes, any LLM for a brain.",
+        "publishedAt": "2026-08-27T20:33:15Z",
+        "rawSignal": 21.69918398319165,
+        "id": "ef0eb3c9c3e0",
+        "score": 69,
+        "scoreBreakdown": {
+          "signal": 22,
+          "relevance": 20,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 9
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "llm",
+          "automation"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 22/25；AI/工具关键词：ai、agent、llm；热点场景：agent、automation。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "ldbumble/taskuary ★38",
+        "url": "https://github.com/ldbumble/taskuary",
+        "source": "GitHub Trending Search",
+        "summary": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
+        "publishedAt": "2026-08-17T12:53:50Z",
+        "rawSignal": 22.728516856211993,
+        "id": "04e7a2adc532",
+        "score": 67,
+        "scoreBreakdown": {
+          "signal": 23,
+          "relevance": 25,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 2
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "claude",
+          "gemini",
+          "coding",
+          "email"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、claude；热点场景：agent、coding、email。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "JordyZomer/lemmalog ★77",
+        "url": "https://github.com/JordyZomer/lemmalog",
+        "source": "GitHub Trending Search",
+        "summary": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+        "publishedAt": "2026-08-27T07:06:55Z",
+        "rawSignal": 25.136756821523843,
+        "id": "1bcc29f9f814",
+        "score": 67,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 8
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "llm",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent、mcp。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "Stupidoodle/swissdevjobs-cli ★91",
+        "url": "https://github.com/Stupidoodle/swissdevjobs-cli",
+        "source": "GitHub Trending Search",
+        "summary": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
+        "publishedAt": "2026-08-24T19:59:58Z",
+        "rawSignal": 25.71030261876444,
+        "id": "88a1e37dfe71",
+        "score": 66,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 7
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "claude",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、claude；热点场景：agent、mcp。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+      },
+      {
+        "title": "What Do You Do While AI Codes?",
+        "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+        "source": "Dev.to",
+        "summary": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+        "publishedAt": "2026-08-25T13:36:11Z",
+        "rawSignal": 28,
+        "id": "263802c06b30",
+        "score": 66,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 7
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "coding"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "AI 编程提效实测",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "小红书工具卡 + 实测教程",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai、agent、coding；热点场景：agent、coding。",
+        "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
       }
     ],
     "快讯/素材池追踪": [
@@ -2371,37 +2489,6 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "crane-in-clear-sky/WorkWit-AI-Agent ★90",
-        "url": "https://github.com/crane-in-clear-sky/WorkWit-AI-Agent",
-        "source": "GitHub Trending Search",
-        "summary": "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose.",
-        "publishedAt": "2026-08-20T02:50:06Z",
-        "rawSignal": 25.67233113856875,
-        "id": "d2cbbc60b7af",
-        "score": 65,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 18,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 4
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "automation",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "MCP 生态应用清单",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、automation；热点场景：agent、automation、mcp。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
         "title": "Lenz - 适用于 AI 工作流的独立、多模型事实核查 API",
         "url": "https://www.producthunt.com/r/4USMUFE5GNEFA6",
         "source": "Buzzing Product Hunt",
@@ -2432,7 +2519,70 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "CopilotKit/OpenBot ★3328",
+        "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+        "url": "https://itsuki.app/",
+        "source": "Buzzing Show HN",
+        "summary": "Itsuki – open-source memory engine for AI agents (API and MCP) (itsuki.app) 15:50 ↑ 1 HN Points",
+        "publishedAt": "2026-08-29T08:04:13.465Z",
+        "rawSignal": 13,
+        "id": "a1be2c8dd46d",
+        "score": 64,
+        "scoreBreakdown": {
+          "signal": 13,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 11,
+          "recency": 10
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "api",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "海外 SaaS 产品机会",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；AI/工具关键词：ai、agent；SaaS/商业关键词：api；热点场景：agent、mcp。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "crane-in-clear-sky/WorkWit-AI-Agent ★90",
+        "url": "https://github.com/crane-in-clear-sky/WorkWit-AI-Agent",
+        "source": "GitHub Trending Search",
+        "summary": "WorkWit: a self-hosted, open-source (MIT) enterprise AI Agent platform for office automation — built-in contract review & resume screening, 40+ skills, MCP connectors, multi-tenant RBAC. Deploy with one Docker Compose.",
+        "publishedAt": "2026-08-20T02:50:06Z",
+        "rawSignal": 25.67233113856875,
+        "id": "d2cbbc60b7af",
+        "score": 64,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 18,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 3
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "automation",
+          "mcp"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "MCP 生态应用清单",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、automation；热点场景：agent、automation、mcp。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "CopilotKit/OpenBot ★3364",
         "url": "https://github.com/CopilotKit/OpenBot",
         "source": "GitHub Trending Search",
         "summary": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
@@ -2464,41 +2614,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "BraxisAI/braxis-blueprint ★84",
-        "url": "https://github.com/BraxisAI/braxis-blueprint",
-        "source": "GitHub Trending Search",
-        "summary": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
-        "publishedAt": "2026-08-23T00:19:10Z",
-        "rawSignal": 25.435351405714343,
-        "id": "ceae8a82cff2",
-        "score": 63,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 14,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 6
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "llm"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "kgoedecke/doop ★491",
+        "title": "kgoedecke/doop ★494",
         "url": "https://github.com/kgoedecke/doop",
         "source": "GitHub Trending Search",
         "summary": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
         "publishedAt": "2026-08-22T15:40:51Z",
-        "rawSignal": 31.535720822138885,
+        "rawSignal": 31.55684159146855,
         "id": "6823c8dc9877",
         "score": 62,
         "scoreBreakdown": {
@@ -2524,62 +2645,32 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "I Built a GTM Research Workflow with One Vaaya API Key",
-        "url": "https://dev.to/nehaaaa6/i-built-a-gtm-research-workflow-with-one-vaaya-api-key-49if",
-        "source": "Dev.to",
-        "summary": "I wanted to see how far I could take a simple idea: Give an agent one API key and let it handle the...",
-        "publishedAt": "2026-08-27T06:26:44Z",
-        "rawSignal": 9,
-        "id": "6f1a8a29f80a",
+        "title": "BraxisAI/braxis-blueprint ★84",
+        "url": "https://github.com/BraxisAI/braxis-blueprint",
+        "source": "GitHub Trending Search",
+        "summary": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+        "publishedAt": "2026-08-23T00:19:10Z",
+        "rawSignal": 25.435351405714343,
+        "id": "ceae8a82cff2",
         "score": 62,
         "scoreBreakdown": {
-          "signal": 9,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 14,
-          "recency": 9
-        },
-        "tags": [
-          "agent",
-          "workflow",
-          "api"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "海外 SaaS 产品机会",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 9/25；AI/工具关键词：agent、workflow；SaaS/商业关键词：api；热点场景：agent、workflow。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "jaredrhod/fullstack-agent ★455",
-        "url": "https://github.com/jaredrhod/fullstack-agent",
-        "source": "GitHub Trending Search",
-        "summary": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
-        "publishedAt": "2026-08-17T04:00:03Z",
-        "rawSignal": 31.271718741315482,
-        "id": "b8f9a98bae0a",
-        "score": 61,
-        "scoreBreakdown": {
           "signal": 25,
-          "relevance": 16,
+          "relevance": 14,
           "contentFit": 14,
           "business": 4,
-          "recency": 2
+          "recency": 5
         },
         "tags": [
           "ai",
           "agent",
-          "voice"
+          "llm"
         ],
         "angles": [
           "AI 工具/工作流拆解",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、voice；热点场景：agent、voice。",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、llm；热点场景：agent。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -2646,6 +2737,36 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
+        "title": "I Built a GTM Research Workflow with One Vaaya API Key",
+        "url": "https://dev.to/nehaaaa6/i-built-a-gtm-research-workflow-with-one-vaaya-api-key-49if",
+        "source": "Dev.to",
+        "summary": "I wanted to see how far I could take a simple idea: Give an agent one API key and let it handle the...",
+        "publishedAt": "2026-08-27T06:26:44Z",
+        "rawSignal": 9,
+        "id": "6f1a8a29f80a",
+        "score": 61,
+        "scoreBreakdown": {
+          "signal": 9,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 14,
+          "recency": 8
+        },
+        "tags": [
+          "agent",
+          "workflow",
+          "api"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "海外 SaaS 产品机会",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 9/25；AI/工具关键词：agent、workflow；SaaS/商业关键词：api；热点场景：agent、workflow。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
         "title": "Stop asking your AI agent to follow rules. Enforce them.",
         "url": "https://dev.to/toffy/stop-asking-your-ai-agent-to-follow-rules-enforce-them-4mlo",
         "source": "Dev.to",
@@ -2706,6 +2827,35 @@
         ],
         "recommendation": "快讯/素材池追踪",
         "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：agent、coding；SaaS/商业关键词：analytics；热点场景：agent、coding。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "jaredrhod/fullstack-agent ★460",
+        "url": "https://github.com/jaredrhod/fullstack-agent",
+        "source": "GitHub Trending Search",
+        "summary": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
+        "publishedAt": "2026-08-17T04:00:03Z",
+        "rawSignal": 31.309607403117184,
+        "id": "b8f9a98bae0a",
+        "score": 60,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 16,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 1
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "voice"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、voice；热点场景：agent、voice。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -2770,7 +2920,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "yetone/cumora ★3228",
+        "title": "yetone/cumora ★3239",
         "url": "https://github.com/yetone/cumora",
         "source": "GitHub Trending Search",
         "summary": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
@@ -2796,34 +2946,6 @@
         ],
         "recommendation": "快讯/素材池追踪",
         "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、claude；热点场景：agent。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "Forsy-AI/biosecurity-agent ★513",
-        "url": "https://github.com/Forsy-AI/biosecurity-agent",
-        "source": "GitHub Trending Search",
-        "summary": "AI agent that builds a live biosecurity world around any target.",
-        "publishedAt": "2026-08-22T23:06:26Z",
-        "rawSignal": 31.687704951962207,
-        "id": "0cac37287677",
-        "score": 59,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 6
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -2856,52 +2978,24 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "Chat history is a second read path into your RAG data — gate the replay like the search",
-        "url": "https://dev.to/rdiegoss/chat-history-is-a-second-read-path-into-your-rag-data-gate-the-replay-like-the-search-10j0",
+        "title": "I'm 12. My \"Bug Report\" article just beat my \"Viral Origin Story\" (and other funny things that happened today)",
+        "url": "https://dev.to/koda2026/im-12-my-bug-report-article-just-beat-my-viral-origin-story-and-other-funny-things-that-2m8o",
         "source": "Dev.to",
-        "summary": "My copilot persists the source cards it cites — which documents backed each answer, scores, names,...",
-        "publishedAt": "2026-08-25T11:47:43Z",
-        "rawSignal": 23.2,
-        "id": "0b9c47a80142",
+        "summary": "Two days ago, I posted my origin story: \"I'm 12. I don't have a laptop. I built a full-stack AI SaaS...",
+        "publishedAt": "2026-08-28T14:53:57Z",
+        "rawSignal": 23.4,
+        "id": "2e2eb7d18d44",
         "score": 59,
         "scoreBreakdown": {
           "signal": 23,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 7
-        },
-        "tags": [
-          "copilot",
-          "rag"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 23/25；AI/工具关键词：copilot、rag；热点场景：rag。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "HTML is getting cool again: Meet the Invoker Commands API",
-        "url": "https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367",
-        "source": "Dev.to",
-        "summary": "For years, frontend development has had a slightly embarrassing relationship with HTML. We all read...",
-        "publishedAt": "2026-08-22T10:55:26Z",
-        "rawSignal": 28,
-        "id": "f5998de5ced7",
-        "score": 59,
-        "scoreBreakdown": {
-          "signal": 25,
           "relevance": 8,
           "contentFit": 10,
-          "business": 11,
-          "recency": 5
+          "business": 8,
+          "recency": 9
         },
         "tags": [
           "ai",
-          "api"
+          "saas"
         ],
         "angles": [
           "AI 工具/工作流拆解",
@@ -2909,16 +3003,44 @@
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai；SaaS/商业关键词：api。",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 23/25；AI/工具关键词：ai；SaaS/商业关键词：saas。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "halofyai/halofy ★469",
+        "title": "Forsy-AI/biosecurity-agent ★514",
+        "url": "https://github.com/Forsy-AI/biosecurity-agent",
+        "source": "GitHub Trending Search",
+        "summary": "AI agent that builds a live biosecurity world around any target.",
+        "publishedAt": "2026-08-22T23:06:26Z",
+        "rawSignal": 31.69445783232953,
+        "id": "0cac37287677",
+        "score": 58,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 5
+        },
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "halofyai/halofy ★471",
         "url": "https://github.com/halofyai/halofy",
         "source": "GitHub Trending Search",
         "summary": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
         "publishedAt": "2026-08-22T06:09:53Z",
-        "rawSignal": 31.37678286348574,
+        "rawSignal": 31.391535989072704,
         "id": "3611e4211e8d",
         "score": 58,
         "scoreBreakdown": {
@@ -2941,40 +3063,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "HanyuanWang/LiveStream-Agent-Studio ★346",
-        "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
-        "source": "GitHub Trending Search",
-        "summary": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
-        "publishedAt": "2026-08-22T14:16:48Z",
-        "rawSignal": 30.32263579832699,
-        "id": "c8a09b9112a4",
-        "score": 58,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 5
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "elie222/botdirectory.ai ★140",
+        "title": "elie222/botdirectory.ai ★142",
         "url": "https://github.com/elie222/botdirectory.ai",
         "source": "GitHub Trending Search",
         "summary": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
         "publishedAt": "2026-08-17T18:23:44Z",
-        "rawSignal": 27.193752901243037,
+        "rawSignal": 27.242688299720495,
         "id": "f57bf469d8b7",
         "score": 58,
         "scoreBreakdown": {
@@ -3026,6 +3120,34 @@
         ],
         "recommendation": "快讯/素材池追踪",
         "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；内容适配关键词：prompt；热点场景：agent、browser。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "Chat history is a second read path into your RAG data — gate the replay like the search",
+        "url": "https://dev.to/rdiegoss/chat-history-is-a-second-read-path-into-your-rag-data-gate-the-replay-like-the-search-10j0",
+        "source": "Dev.to",
+        "summary": "My copilot persists the source cards it cites — which documents backed each answer, scores, names,...",
+        "publishedAt": "2026-08-25T11:47:43Z",
+        "rawSignal": 23.2,
+        "id": "0b9c47a80142",
+        "score": 58,
+        "scoreBreakdown": {
+          "signal": 23,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 7
+        },
+        "tags": [
+          "copilot",
+          "rag"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 23/25；AI/工具关键词：copilot、rag；热点场景：rag。",
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
@@ -3090,7 +3212,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "MiniMaxAI/MiniMax-H3 ❤4589",
+        "title": "MiniMaxAI/MiniMax-H3 ❤4597",
         "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
         "source": "Hugging Face Models",
         "summary": "image-text-to-video: minimax-h3, diffusers, safetensors, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
@@ -3154,7 +3276,7 @@
         "source": "Hacker News",
         "summary": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "publishedAt": "2026-08-21T23:09:06Z",
-        "rawSignal": 22.916666666666668,
+        "rawSignal": 23.041666666666668,
         "id": "ec74d4d3ec74",
         "score": 56,
         "scoreBreakdown": {
@@ -3177,40 +3299,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "only-cli/oc ★395",
-        "url": "https://github.com/only-cli/oc",
-        "source": "GitHub Trending Search",
-        "summary": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
-        "publishedAt": "2026-08-18T13:00:30Z",
-        "rawSignal": 30.781561487404097,
-        "id": "7dcdd5f46b1e",
-        "score": 56,
-        "scoreBreakdown": {
-          "signal": 25,
-          "relevance": 10,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 3
-        },
-        "tags": [
-          "ai",
-          "agent"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "快讯/素材池追踪",
-        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "mrpulor-gh/nuphus ★41",
+        "title": "mrpulor-gh/nuphus ★43",
         "url": "https://github.com/mrpulor-gh/nuphus",
         "source": "GitHub Trending Search",
         "summary": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
         "publishedAt": "2026-08-21T20:35:53Z",
-        "rawSignal": 22.985994323183206,
+        "rawSignal": 23.1476214118895,
         "id": "93382d31d21f",
         "score": 56,
         "scoreBreakdown": {
@@ -3233,12 +3327,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "migsilva89/loadout ★43",
+        "title": "migsilva89/loadout ★42",
         "url": "https://github.com/migsilva89/loadout",
         "source": "GitHub Trending Search",
         "summary": "See and manage what your coding assistants load — skills, commands, subagents, plugins and MCP servers, with real usage.",
         "publishedAt": "2026-08-15T21:58:45Z",
-        "rawSignal": 23.1476214118895,
+        "rawSignal": 23.067747644636693,
         "id": "981ad10a51ea",
         "score": 56,
         "scoreBreakdown": {
@@ -3246,7 +3340,7 @@
           "relevance": 14,
           "contentFit": 14,
           "business": 4,
-          "recency": 1
+          "recency": 0
         },
         "tags": [
           "agent",
@@ -3380,7 +3474,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "lexmount/moli ★1379",
+        "title": "lexmount/moli ★1400",
         "url": "https://github.com/lexmount/moli",
         "source": "GitHub Trending Search",
         "summary": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
@@ -3410,13 +3504,41 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "iAmCorey/Wake ★690",
+        "title": "iAmCorey/Wake ★691",
         "url": "https://github.com/iAmCorey/Wake",
         "source": "GitHub Trending Search",
         "summary": "All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.",
         "publishedAt": "2026-08-18T09:46:23Z",
-        "rawSignal": 32.71582437899359,
+        "rawSignal": 32.72084875565406,
         "id": "78cb7ee552a6",
+        "score": 55,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 10,
+          "contentFit": 14,
+          "business": 4,
+          "recency": 2
+        },
+        "tags": [
+          "ai",
+          "agent"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "快讯/素材池追踪",
+        "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent；热点场景：agent。",
+        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+      },
+      {
+        "title": "only-cli/oc ★403",
+        "url": "https://github.com/only-cli/oc",
+        "source": "GitHub Trending Search",
+        "summary": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+        "publishedAt": "2026-08-18T13:00:30Z",
+        "rawSignal": 30.85105092088484,
+        "id": "7dcdd5f46b1e",
         "score": 55,
         "scoreBreakdown": {
           "signal": 25,
@@ -3499,7 +3621,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "openai/gpt-oss-120b ❤5131",
+        "title": "openai/gpt-oss-120b ❤5132",
         "url": "https://huggingface.co/openai/gpt-oss-120b",
         "source": "Hugging Face Models",
         "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
@@ -3529,7 +3651,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "openai/gpt-oss-20b ❤4964",
+        "title": "openai/gpt-oss-20b ❤4967",
         "url": "https://huggingface.co/openai/gpt-oss-20b",
         "source": "Hugging Face Models",
         "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
@@ -3591,6 +3713,36 @@
         "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
       },
       {
+        "title": "Aramb - 20分钟内构建、发布并实现AI代理的商业化",
+        "url": "https://www.producthunt.com/r/D4TC4EHIKS3ZSW",
+        "source": "Buzzing Product Hunt",
+        "summary": "Build, launch and monetize your AI agents in 20 minutes (www.producthunt.com) 08-28 ↑ 128 PH Upvotes",
+        "publishedAt": "2026-08-29T07:16:19.861Z",
+        "rawSignal": 13,
+        "id": "dbfc26f987e0",
+        "score": 57,
+        "scoreBreakdown": {
+          "signal": 13,
+          "relevance": 13,
+          "contentFit": 14,
+          "business": 7,
+          "recency": 10
+        },
+        "tags": [
+          "ai",
+          "agent",
+          "launch"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "独立开发者/增长案例",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "独立开发案例库",
+        "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：ai、agent；独立开发/增长关键词：launch；热点场景：agent。",
+        "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
+      },
+      {
         "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
         "url": "https://www.risklytics.ai/",
         "source": "Hacker News",
@@ -3598,7 +3750,7 @@
         "publishedAt": "2026-08-26T16:06:01Z",
         "rawSignal": 15.416666666666668,
         "id": "3a3028b49f7c",
-        "score": 54,
+        "score": 53,
         "scoreBreakdown": {
           "signal": 15,
           "relevance": 9,
@@ -3653,35 +3805,7 @@
     ],
     "观察名单": [
       {
-        "title": "Top 7 APIs for SaaS Development in 2026 (I’d Actually Use These)",
-        "url": "https://dev.to/itshayder/top-7-apis-for-saas-development-in-2026-id-actually-use-these-1glo",
-        "source": "Dev.to",
-        "summary": "7 APIs I’d Use in a SaaS in 2026 I've built enough small projects to learn one annoying...",
-        "publishedAt": "2026-08-27T17:39:32Z",
-        "rawSignal": 17.6,
-        "id": "19fe2884683f",
-        "score": 55,
-        "scoreBreakdown": {
-          "signal": 18,
-          "relevance": 8,
-          "contentFit": 5,
-          "business": 15,
-          "recency": 9
-        },
-        "tags": [
-          "saas",
-          "api"
-        ],
-        "angles": [
-          "海外 SaaS 产品机会",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Dev.to 的信号强度 18/25；SaaS/商业关键词：saas、api。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "duty1g/x64dbg-mcp-server ★1673",
+        "title": "duty1g/x64dbg-mcp-server ★1692",
         "url": "https://github.com/duty1g/x64dbg-mcp-server",
         "source": "GitHub Trending Search",
         "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more. Built with Zig — zero dependencies, single-binary output, cros",
@@ -3710,42 +3834,69 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "Firecrawl Developer Index - 一个精心整理的、包含7000多万个用于编程代理的资源索引。",
-        "url": "https://www.producthunt.com/r/D6DMT64DXNRKM3",
-        "source": "Buzzing Product Hunt",
-        "summary": "A curated index of 70M artifacts for coding agents. (www.producthunt.com) 08-28 ↑ 125 PH Upvotes",
-        "publishedAt": "2026-08-28T17:24:15.282Z",
-        "rawSignal": 13,
-        "id": "280722c811e4",
-        "score": 53,
+        "title": "Top 7 APIs for SaaS Development in 2026 (I’d Actually Use These)",
+        "url": "https://dev.to/itshayder/top-7-apis-for-saas-development-in-2026-id-actually-use-these-1glo",
+        "source": "Dev.to",
+        "summary": "7 APIs I’d Use in a SaaS in 2026 I've built enough small projects to learn one annoying...",
+        "publishedAt": "2026-08-27T17:39:32Z",
+        "rawSignal": 17.6,
+        "id": "19fe2884683f",
+        "score": 54,
         "scoreBreakdown": {
-          "signal": 13,
-          "relevance": 12,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 10
+          "signal": 18,
+          "relevance": 8,
+          "contentFit": 5,
+          "business": 15,
+          "recency": 9
         },
         "tags": [
-          "agent",
-          "coding"
+          "saas",
+          "api"
         ],
         "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
+          "海外 SaaS 产品机会",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：agent、coding；热点场景：agent、coding。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 18/25；SaaS/商业关键词：saas、api。",
+        "nextAction": "建议：暂不投入写作，只保留为观察名单；如果后续出现更多讨论或真实用户案例再升级。"
       },
       {
-        "title": "Show HN: Metis——一款将DeepSeek的编码水平提升至Opus级别的代理框架（82%）",
-        "url": "https://github.com/Wholiver/metis",
+        "title": "Are AI Tools Actually Making Us Productive — or Just Giving Us Something New to Play With?",
+        "url": "https://dev.to/james_anderson_h/are-ai-tools-actually-making-us-productive-or-just-giving-us-something-new-to-play-with-4f9a",
+        "source": "Dev.to",
+        "summary": "I want to describe a completely ordinary hour from my week, because I suspect it's your week too. ...",
+        "publishedAt": "2026-08-26T05:36:22Z",
+        "rawSignal": 28,
+        "id": "647b40a2a75b",
+        "score": 54,
+        "scoreBreakdown": {
+          "signal": 25,
+          "relevance": 4,
+          "contentFit": 13,
+          "business": 4,
+          "recency": 8
+        },
+        "tags": [
+          "ai",
+          "tool"
+        ],
+        "angles": [
+          "AI 工具/工作流拆解",
+          "小红书卡片：痛点-工具-结果"
+        ],
+        "recommendation": "观察名单",
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 25/25；AI/工具关键词：ai；内容适配关键词：tool。",
+        "nextAction": "建议：暂不投入写作，只保留为观察名单；如果后续出现更多讨论或真实用户案例再升级。"
+      },
+      {
+        "title": "Show HN: DeepSeekGUI——DeepSeek编码代理的Windows桌面客户端",
+        "url": "https://github.com/See-Sol-Lab/DeepSeekGUI",
         "source": "Buzzing Show HN",
-        "summary": "Metis – An agent harness pushing DeepSeek to Opus-tier coding (82%) (github.com) 10:36 ↑ 2 HN Points",
-        "publishedAt": "2026-08-29T03:00:24.266Z",
+        "summary": "DeepSeekGUI – A Windows desktop client for DeepSeek''s coding agent (github.com) 19:02 ↑ 1 HN Points",
+        "publishedAt": "2026-08-29T11:16:16.099Z",
         "rawSignal": 13,
-        "id": "6115461aa615",
+        "id": "e70e7937ae77",
         "score": 53,
         "scoreBreakdown": {
           "signal": 13,
@@ -3773,7 +3924,7 @@
         "source": "Hacker News",
         "summary": "Show HN: Open tool for testing your AI Agents (No LLM)",
         "publishedAt": "2026-08-28T16:31:56Z",
-        "rawSignal": 8.833333333333334,
+        "rawSignal": 8.916666666666666,
         "id": "4918cb13bf9c",
         "score": 53,
         "scoreBreakdown": {
@@ -3781,7 +3932,7 @@
           "relevance": 14,
           "contentFit": 17,
           "business": 4,
-          "recency": 10
+          "recency": 9
         },
         "tags": [
           "ai",
@@ -3811,7 +3962,7 @@
           "relevance": 6,
           "contentFit": 14,
           "business": 4,
-          "recency": 8
+          "recency": 7
         },
         "tags": [
           "ai",
@@ -3827,40 +3978,7 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
-        "url": "https://github.com/Cubinghackerz/ai.diy",
-        "source": "Hacker News",
-        "summary": "AI(.)DIY – Open-source AI workspace with agents, MCP and Linux in the browser",
-        "publishedAt": "2026-08-21T11:25:47Z",
-        "rawSignal": 8.083333333333334,
-        "id": "cbe60a7429f9",
-        "score": 53,
-        "scoreBreakdown": {
-          "signal": 8,
-          "relevance": 18,
-          "contentFit": 14,
-          "business": 8,
-          "recency": 5
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "workspace",
-          "browser",
-          "mcp"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "海外 SaaS 产品机会",
-          "MCP 生态应用清单",
-          "浏览器 Agent 场景"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Hacker News 的信号强度 8/25；AI/工具关键词：ai、agent；SaaS/商业关键词：workspace；热点场景：agent、browser、mcp。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "Leonxlnx/unlazy ★2740",
+        "title": "Leonxlnx/unlazy ★2758",
         "url": "https://github.com/Leonxlnx/unlazy",
         "source": "GitHub Trending Search",
         "summary": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
@@ -3888,12 +4006,12 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "pgrundev/pgbot ★802",
+        "title": "pgrundev/pgbot ★803",
         "url": "https://github.com/pgrundev/pgbot",
         "source": "GitHub Trending Search",
         "summary": "Postgres intelligence for ai agents & apps",
         "publishedAt": "2026-08-11T23:41:52Z",
-        "rawSignal": 33.23772436222944,
+        "rawSignal": 33.24204838998761,
         "id": "f6eeed971fba",
         "score": 53,
         "scoreBreakdown": {
@@ -3972,104 +4090,44 @@
         "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
       },
       {
-        "title": "GitNexus (Akon Labs) - 用于编写智能体的开源内核",
-        "url": "https://www.producthunt.com/r/RSJUDWOS6W4RS6",
-        "source": "Buzzing Product Hunt",
-        "summary": "The open-source kernel for coding agents (www.producthunt.com) 08-27 ↑ 138 PH Upvotes",
-        "publishedAt": "2026-08-28T04:05:19.032Z",
-        "rawSignal": 13,
-        "id": "e330302d481d",
-        "score": 52,
+        "title": "Half the Requests Wearing ChatGPT's Name Were Scanning Us for Secrets",
+        "url": "https://dev.to/izgorodin/half-of-chatgpts-requests-to-our-site-were-not-chatgpt-3hj2",
+        "source": "Dev.to",
+        "summary": "We finally opened Cloudflare's AI Crawl Control last week, mostly out of curiosity about which AI...",
+        "publishedAt": "2026-08-25T11:53:00Z",
+        "rawSignal": 23.4,
+        "id": "07f4b3b52ae0",
+        "score": 53,
         "scoreBreakdown": {
-          "signal": 13,
-          "relevance": 12,
-          "contentFit": 14,
+          "signal": 23,
+          "relevance": 8,
+          "contentFit": 10,
           "business": 4,
-          "recency": 9
-        },
-        "tags": [
-          "agent",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：agent、coding；热点场景：agent、coding。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "Grith is live – security proxy for AI coding agents",
-        "url": "https://grith.ai/blog/grith-is-live",
-        "source": "Hacker News",
-        "summary": "Grith is live – security proxy for AI coding agents",
-        "publishedAt": "2026-08-28T14:47:56Z",
-        "rawSignal": 8.458333333333334,
-        "id": "b33aa33dd699",
-        "score": 52,
-        "scoreBreakdown": {
-          "signal": 8,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 10
+          "recency": 7
         },
         "tags": [
           "ai",
-          "agent",
-          "coding"
+          "gpt"
         ],
         "angles": [
           "AI 工具/工作流拆解",
-          "AI 编程提效实测",
           "小红书卡片：痛点-工具-结果"
         ],
         "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Hacker News 的信号强度 8/25；AI/工具关键词：ai、agent、coding；热点场景：agent、coding。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-      },
-      {
-        "title": "Show HN: Grith – syscall-level supervision for AI coding agents on Linux",
-        "url": "https://github.com/grith-ai/grith",
-        "source": "Hacker News",
-        "summary": "Show HN: Grith – syscall-level supervision for AI coding agents on Linux",
-        "publishedAt": "2026-08-28T14:15:11Z",
-        "rawSignal": 8.25,
-        "id": "32d2a4d1a4c4",
-        "score": 52,
-        "scoreBreakdown": {
-          "signal": 8,
-          "relevance": 16,
-          "contentFit": 14,
-          "business": 4,
-          "recency": 10
-        },
-        "tags": [
-          "ai",
-          "agent",
-          "coding"
-        ],
-        "angles": [
-          "AI 工具/工作流拆解",
-          "AI 编程提效实测",
-          "小红书卡片：痛点-工具-结果"
-        ],
-        "recommendation": "观察名单",
-        "selectionReason": "入选原因：来源 Hacker News 的信号强度 8/25；AI/工具关键词：ai、agent、coding；热点场景：agent、coding。",
-        "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+        "selectionReason": "入选原因：来源 Dev.to 的信号强度 23/25；AI/工具关键词：ai、gpt。",
+        "nextAction": "建议：暂不投入写作，只保留为观察名单；如果后续出现更多讨论或真实用户案例再升级。"
       }
     ]
   },
   "sourceStats": {
     "GitHub Trending Search": 37,
-    "Buzzing Dev.to": 1,
-    "Dev.to": 17,
-    "Buzzing SideProject": 3,
-    "Buzzing Product Hunt": 4,
+    "Buzzing Lobsters": 1,
+    "Dev.to": 19,
+    "Buzzing Dev.to": 2,
+    "Buzzing SideProject": 2,
+    "Hacker News": 11,
+    "Buzzing Product Hunt": 3,
     "Buzzing Show HN": 2,
-    "Hacker News": 13,
     "Hugging Face Models": 3
   },
   "bySource": [
@@ -4079,12 +4137,12 @@
       "averageScore": 60,
       "items": [
         {
-          "title": "calmrocks/ai-engineer-notebooks ★486",
+          "title": "calmrocks/ai-engineer-notebooks ★490",
           "url": "https://github.com/calmrocks/ai-engineer-notebooks",
           "source": "GitHub Trending Search",
           "summary": "Hands-on, framework-free Colab notebooks for the AI Engineer / Forward Deployed Engineer (FDE) skill set — model APIs, structured output, tool calling, RAG, evals-as-the-spine, agents (loop from scratch, tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, LLMOps, and customer craft. Runs on the free Groq API.",
           "publishedAt": "2026-08-11T23:17:17Z",
-          "rawSignal": 31.500231689717076,
+          "rawSignal": 31.52865193698375,
           "id": "a0b834204cb6",
           "score": 85,
           "scoreBreakdown": {
@@ -4124,13 +4182,13 @@
           "publishedAt": "2026-08-22T23:49:10Z",
           "rawSignal": 24.04699884537993,
           "id": "7ef267dceaa9",
-          "score": 76,
+          "score": 75,
           "scoreBreakdown": {
             "signal": 24,
             "relevance": 25,
             "contentFit": 17,
             "business": 4,
-            "recency": 6
+            "recency": 5
           },
           "tags": [
             "ai",
@@ -4155,12 +4213,12 @@
           "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
         },
         {
-          "title": "lennney/stop-that-shit ★621",
+          "title": "lennney/stop-that-shit ★650",
           "url": "https://github.com/lennney/stop-that-shit",
           "source": "GitHub Trending Search",
           "summary": "Stop That Shit（别再造史了）｜面向 Codex/GPT 场景的多平台 Hook + Skill Guard：拦截 AI coding agent 无需求的哈希、校验和与任务范围膨胀。 A multi-platform Hook + Skill Guard for AI coding agents in Codex/GPT workflows: stop unrequested hashes, checksums, and task-scope creep.",
           "publishedAt": "2026-08-11T15:31:45Z",
-          "rawSignal": 32.350323077526554,
+          "rawSignal": 32.508647908545534,
           "id": "b9eafdaf29b2",
           "score": 71,
           "scoreBreakdown": {
@@ -4184,6 +4242,38 @@
           ],
           "recommendation": "小红书工具卡 + 实测教程",
           "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、gpt；热点场景：agent、workflow、coding。",
+          "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
+        },
+        {
+          "title": "sodiumsun/agenttrail ★382",
+          "url": "https://github.com/sodiumsun/agenttrail",
+          "source": "GitHub Trending Search",
+          "summary": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+          "publishedAt": "2026-08-21T21:14:33Z",
+          "rawSignal": 30.665590191748983,
+          "id": "32607f1587dc",
+          "score": 71,
+          "scoreBreakdown": {
+            "signal": 25,
+            "relevance": 20,
+            "contentFit": 17,
+            "business": 4,
+            "recency": 5
+          },
+          "tags": [
+            "ai",
+            "agent",
+            "claude",
+            "coding",
+            "tool"
+          ],
+          "angles": [
+            "AI 工具/工作流拆解",
+            "AI 编程提效实测",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "小红书工具卡 + 实测教程",
+          "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 25/25；AI/工具关键词：ai、agent、claude；内容适配关键词：tool；热点场景：agent、coding。",
           "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
         },
         {
@@ -4215,46 +4305,13 @@
           "recommendation": "小红书工具卡 + 实测教程",
           "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 22/25；AI/工具关键词：ai、agent、llm；热点场景：agent、automation。",
           "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
-        },
-        {
-          "title": "ldbumble/taskuary ★38",
-          "url": "https://github.com/ldbumble/taskuary",
-          "source": "GitHub Trending Search",
-          "summary": "Automate your job: local-first AI task hub. Email, Teams, Slack & reports -> one timeline -> AI triage -> your coding agents (Claude Code, Codex, Gemini) do the work, you approve.",
-          "publishedAt": "2026-08-17T12:53:50Z",
-          "rawSignal": 22.728516856211993,
-          "id": "04e7a2adc532",
-          "score": 68,
-          "scoreBreakdown": {
-            "signal": 23,
-            "relevance": 25,
-            "contentFit": 14,
-            "business": 4,
-            "recency": 2
-          },
-          "tags": [
-            "ai",
-            "agent",
-            "claude",
-            "gemini",
-            "coding",
-            "email"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "AI 编程提效实测",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "小红书工具卡 + 实测教程",
-          "selectionReason": "入选原因：来源 GitHub Trending Search 的信号强度 23/25；AI/工具关键词：ai、agent、claude；热点场景：agent、coding、email。",
-          "nextAction": "建议：做一张小红书卡片，标题突出具体人群和结果；同时找 2-3 个同类工具做实测对比。"
         }
       ]
     },
     {
       "source": "Dev.to",
-      "count": 17,
-      "averageScore": 63,
+      "count": 19,
+      "averageScore": 62,
       "items": [
         {
           "title": "Your AI Coding Agent Doesn't Have a Junior-Developer Problem. It Has an Amnesia Problem.",
@@ -4374,7 +4431,7 @@
             "relevance": 12,
             "contentFit": 17,
             "business": 16,
-            "recency": 10
+            "recency": 9
           },
           "tags": [
             "ai",
@@ -4438,9 +4495,50 @@
     },
     {
       "source": "Hacker News",
-      "count": 13,
-      "averageScore": 55,
+      "count": 11,
+      "averageScore": 56,
       "items": [
+        {
+          "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+          "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+          "source": "Hacker News",
+          "summary": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+          "publishedAt": "2026-08-29T07:36:35Z",
+          "rawSignal": 8.083333333333334,
+          "id": "6d19621b60cf",
+          "score": 65,
+          "scoreBreakdown": {
+            "signal": 11,
+            "relevance": 14,
+            "contentFit": 18,
+            "business": 12,
+            "recency": 10
+          },
+          "tags": [
+            "ai",
+            "agent",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：problem；AI/工具关键词：ai、agent；热点场景：agent。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "problem"
+            ],
+            "contextHits": [
+              "agent",
+              "ai"
+            ]
+          }
+        },
         {
           "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
           "url": "https://twill.ai",
@@ -4547,7 +4645,7 @@
           "source": "Hacker News",
           "summary": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
           "publishedAt": "2026-08-21T23:09:06Z",
-          "rawSignal": 22.916666666666668,
+          "rawSignal": 23.041666666666668,
           "id": "ec74d4d3ec74",
           "score": 56,
           "scoreBreakdown": {
@@ -4568,58 +4666,13 @@
           "recommendation": "快讯/素材池追踪",
           "selectionReason": "入选原因：来源 Hacker News 的信号强度 23/25；AI/工具关键词：ai、agent；热点场景：agent。",
           "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-        },
-        {
-          "title": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
-          "url": "https://ideavault-alpha.vercel.app/",
-          "source": "Hacker News",
-          "summary": "AI Tool That Analyzes Reddit Complaints and Suggests Micro-SaaS Ideas",
-          "publishedAt": "2026-06-19T11:21:58Z",
-          "rawSignal": 8.25,
-          "id": "9bbb720cca23",
-          "score": 56,
-          "scoreBreakdown": {
-            "signal": 11,
-            "relevance": 12,
-            "contentFit": 17,
-            "business": 16,
-            "recency": 0
-          },
-          "tags": [
-            "ai",
-            "saas",
-            "tool",
-            "用户吐槽",
-            "开发机会"
-          ],
-          "angles": [
-            "用户吐槽 → 开发机会",
-            "AI 工具/工作流拆解",
-            "海外 SaaS 产品机会",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Hacker News 的信号强度 11/25；用户负反馈：complain、complaint；AI/工具关键词：ai；SaaS/商业关键词：saas。",
-          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-          "opportunity": {
-            "type": "用户吐槽/开发机会",
-            "complaintHits": [
-              "complain",
-              "complaint"
-            ],
-            "contextHits": [
-              "saas",
-              "tool",
-              "ai"
-            ]
-          }
         }
       ]
     },
     {
       "source": "Buzzing Product Hunt",
-      "count": 4,
-      "averageScore": 57,
+      "count": 3,
+      "averageScore": 60,
       "items": [
         {
           "title": "Lenz - 适用于 AI 工作流的独立、多模型事实核查 API",
@@ -4683,69 +4736,224 @@
           "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         },
         {
-          "title": "Firecrawl Developer Index - 一个精心整理的、包含7000多万个用于编程代理的资源索引。",
-          "url": "https://www.producthunt.com/r/D6DMT64DXNRKM3",
+          "title": "Aramb - 20分钟内构建、发布并实现AI代理的商业化",
+          "url": "https://www.producthunt.com/r/D4TC4EHIKS3ZSW",
           "source": "Buzzing Product Hunt",
-          "summary": "A curated index of 70M artifacts for coding agents. (www.producthunt.com) 08-28 ↑ 125 PH Upvotes",
-          "publishedAt": "2026-08-28T17:24:15.282Z",
+          "summary": "Build, launch and monetize your AI agents in 20 minutes (www.producthunt.com) 08-28 ↑ 128 PH Upvotes",
+          "publishedAt": "2026-08-29T07:16:19.861Z",
           "rawSignal": 13,
-          "id": "280722c811e4",
-          "score": 53,
+          "id": "dbfc26f987e0",
+          "score": 57,
           "scoreBreakdown": {
             "signal": 13,
-            "relevance": 12,
+            "relevance": 13,
             "contentFit": 14,
-            "business": 4,
+            "business": 7,
             "recency": 10
           },
           "tags": [
+            "ai",
             "agent",
-            "coding"
+            "launch"
           ],
           "angles": [
             "AI 工具/工作流拆解",
-            "AI 编程提效实测",
+            "独立开发者/增长案例",
             "小红书卡片：痛点-工具-结果"
           ],
-          "recommendation": "观察名单",
-          "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：agent、coding；热点场景：agent、coding。",
+          "recommendation": "独立开发案例库",
+          "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：ai、agent；独立开发/增长关键词：launch；热点场景：agent。",
+          "nextAction": "建议：加入案例库，补充创始人、定价、获客渠道和 MRR/增长线索，用作后续选题或产品机会素材。"
+        }
+      ]
+    },
+    {
+      "source": "Hugging Face Models",
+      "count": 3,
+      "averageScore": 56,
+      "items": [
+        {
+          "title": "MiniMaxAI/MiniMax-H3 ❤4597",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "source": "Hugging Face Models",
+          "summary": "image-text-to-video: minimax-h3, diffusers, safetensors, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
+          "publishedAt": "2026-08-13T01:46:29.000Z",
+          "rawSignal": 32,
+          "id": "3c921ccafb7c",
+          "score": 57,
+          "scoreBreakdown": {
+            "signal": 25,
+            "relevance": 14,
+            "contentFit": 14,
+            "business": 4,
+            "recency": 0
+          },
+          "tags": [
+            "ai",
+            "image",
+            "video"
+          ],
+          "angles": [
+            "AI 工具/工作流拆解",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "快讯/素材池追踪",
+          "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、image、video；热点场景：video。",
           "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         },
         {
-          "title": "GitNexus (Akon Labs) - 用于编写智能体的开源内核",
-          "url": "https://www.producthunt.com/r/RSJUDWOS6W4RS6",
-          "source": "Buzzing Product Hunt",
-          "summary": "The open-source kernel for coding agents (www.producthunt.com) 08-27 ↑ 138 PH Upvotes",
-          "publishedAt": "2026-08-28T04:05:19.032Z",
-          "rawSignal": 13,
-          "id": "e330302d481d",
-          "score": 52,
+          "title": "openai/gpt-oss-120b ❤5132",
+          "url": "https://huggingface.co/openai/gpt-oss-120b",
+          "source": "Hugging Face Models",
+          "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
+          "publishedAt": "2025-08-26T17:25:03.000Z",
+          "rawSignal": 32,
+          "id": "9dcfa538700d",
+          "score": 55,
           "scoreBreakdown": {
-            "signal": 13,
-            "relevance": 12,
-            "contentFit": 14,
+            "signal": 25,
+            "relevance": 16,
+            "contentFit": 10,
             "business": 4,
-            "recency": 9
+            "recency": 0
           },
           "tags": [
-            "agent",
-            "coding"
+            "ai",
+            "llm",
+            "gpt",
+            "openai"
           ],
           "angles": [
             "AI 工具/工作流拆解",
-            "AI 编程提效实测",
             "小红书卡片：痛点-工具-结果"
           ],
-          "recommendation": "观察名单",
-          "selectionReason": "入选原因：来源 Buzzing Product Hunt 的信号强度 13/25；AI/工具关键词：agent、coding；热点场景：agent、coding。",
+          "recommendation": "快讯/素材池追踪",
+          "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、llm、gpt。",
+          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
+        },
+        {
+          "title": "openai/gpt-oss-20b ❤4967",
+          "url": "https://huggingface.co/openai/gpt-oss-20b",
+          "source": "Hugging Face Models",
+          "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
+          "publishedAt": "2025-08-26T17:25:47.000Z",
+          "rawSignal": 32,
+          "id": "90ac6134da54",
+          "score": 55,
+          "scoreBreakdown": {
+            "signal": 25,
+            "relevance": 16,
+            "contentFit": 10,
+            "business": 4,
+            "recency": 0
+          },
+          "tags": [
+            "ai",
+            "llm",
+            "gpt",
+            "openai"
+          ],
+          "angles": [
+            "AI 工具/工作流拆解",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "快讯/素材池追踪",
+          "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、llm、gpt。",
           "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         }
       ]
     },
     {
+      "source": "Buzzing Dev.to",
+      "count": 2,
+      "averageScore": 71,
+      "items": [
+        {
+          "title": "不应允许您的AI代理随心所欲地写作",
+          "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
+          "source": "Buzzing Dev.to",
+          "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
+          "publishedAt": "2026-08-28T16:20:34.276Z",
+          "rawSignal": 16,
+          "id": "23bec2354ba6",
+          "score": 72,
+          "scoreBreakdown": {
+            "signal": 19,
+            "relevance": 14,
+            "contentFit": 18,
+            "business": 12,
+            "recency": 9
+          },
+          "tags": [
+            "ai",
+            "agent",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "hate"
+            ],
+            "contextHits": [
+              "agent",
+              "ai"
+            ]
+          }
+        },
+        {
+          "title": "我部署在云端的多代理集群通过了演示测试。但其架构仍然有问题。",
+          "url": "https://dev.to/dannwaneri/my-cloud-run-multi-agent-fleet-passed-its-demo-the-architecture-was-still-wrong-1p",
+          "source": "Buzzing Dev.to",
+          "summary": "My Cloud Run Multi-Agent Fleet Passed Its Demo. The Architecture Was Still Wrong. (dev.to) 08-26",
+          "publishedAt": "2026-08-29T09:08:21.953Z",
+          "rawSignal": 16,
+          "id": "c12481e5c865",
+          "score": 69,
+          "scoreBreakdown": {
+            "signal": 19,
+            "relevance": 10,
+            "contentFit": 18,
+            "business": 12,
+            "recency": 10
+          },
+          "tags": [
+            "agent",
+            "用户吐槽",
+            "开发机会"
+          ],
+          "angles": [
+            "用户吐槽 → 开发机会",
+            "AI 工具/工作流拆解",
+            "小红书卡片：痛点-工具-结果"
+          ],
+          "recommendation": "用户吐槽/开发机会",
+          "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：问题；AI/工具关键词：agent；热点场景：agent。",
+          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
+          "opportunity": {
+            "type": "用户吐槽/开发机会",
+            "complaintHits": [
+              "问题"
+            ],
+            "contextHits": [
+              "agent"
+            ]
+          }
+        }
+      ]
+    },
+    {
       "source": "Buzzing SideProject",
-      "count": 3,
-      "averageScore": 58,
+      "count": 2,
+      "averageScore": 62,
       "items": [
         {
           "title": "用ChatGPT编写氛围代码简直痛苦至极，但我居然完成了一个项目",
@@ -4831,196 +5039,54 @@
               "工具"
             ]
           }
-        },
-        {
-          "title": "我开发了一个\"免登录\"的GIF转Lottie工具，以此摆脱对After Effects的依赖。刚获得首批付费客户，现需征询意见：当前功能是否存在缺失？",
-          "url": "https://old.reddit.com/r/SideProject/comments/1qxhxw6/i_built_a_nologin_gif_to_lottie_converter_to/",
-          "source": "Buzzing SideProject",
-          "summary": "I built a \"No-Login\" GIF to Lottie converter to escape After Effects. Just got my first paying customers and need advice on what''s missing. (old.reddit.com) 02-06 ↑ 3 Reddit Upvotes",
-          "publishedAt": "2026-02-06T18:56:51.980Z",
-          "rawSignal": 16,
-          "id": "79b14559b58a",
-          "score": 52,
-          "scoreBreakdown": {
-            "signal": 19,
-            "relevance": 8,
-            "contentFit": 9,
-            "business": 16,
-            "recency": 0
-          },
-          "tags": [
-            "customer",
-            "用户吐槽",
-            "开发机会"
-          ],
-          "angles": [
-            "用户吐槽 → 开发机会",
-            "海外 SaaS 产品机会",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Buzzing SideProject 的信号强度 19/25；用户负反馈：missing；SaaS/商业关键词：customer。",
-          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-          "opportunity": {
-            "type": "用户吐槽/开发机会",
-            "complaintHits": [
-              "missing"
-            ],
-            "contextHits": [
-              "工具"
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "source": "Hugging Face Models",
-      "count": 3,
-      "averageScore": 56,
-      "items": [
-        {
-          "title": "MiniMaxAI/MiniMax-H3 ❤4589",
-          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "source": "Hugging Face Models",
-          "summary": "image-text-to-video: minimax-h3, diffusers, safetensors, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
-          "publishedAt": "2026-08-13T01:46:29.000Z",
-          "rawSignal": 32,
-          "id": "3c921ccafb7c",
-          "score": 57,
-          "scoreBreakdown": {
-            "signal": 25,
-            "relevance": 14,
-            "contentFit": 14,
-            "business": 4,
-            "recency": 0
-          },
-          "tags": [
-            "ai",
-            "image",
-            "video"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "快讯/素材池追踪",
-          "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、image、video；热点场景：video。",
-          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-        },
-        {
-          "title": "openai/gpt-oss-120b ❤5131",
-          "url": "https://huggingface.co/openai/gpt-oss-120b",
-          "source": "Hugging Face Models",
-          "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
-          "publishedAt": "2025-08-26T17:25:03.000Z",
-          "rawSignal": 32,
-          "id": "9dcfa538700d",
-          "score": 55,
-          "scoreBreakdown": {
-            "signal": 25,
-            "relevance": 16,
-            "contentFit": 10,
-            "business": 4,
-            "recency": 0
-          },
-          "tags": [
-            "ai",
-            "llm",
-            "gpt",
-            "openai"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "快讯/素材池追踪",
-          "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、llm、gpt。",
-          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
-        },
-        {
-          "title": "openai/gpt-oss-20b ❤4964",
-          "url": "https://huggingface.co/openai/gpt-oss-20b",
-          "source": "Hugging Face Models",
-          "summary": "text-generation: transformers, safetensors, gpt_oss, text-generation, vllm, conversational, arxiv:2508.10925, license:apache-2.0",
-          "publishedAt": "2025-08-26T17:25:47.000Z",
-          "rawSignal": 32,
-          "id": "90ac6134da54",
-          "score": 55,
-          "scoreBreakdown": {
-            "signal": 25,
-            "relevance": 16,
-            "contentFit": 10,
-            "business": 4,
-            "recency": 0
-          },
-          "tags": [
-            "ai",
-            "llm",
-            "gpt",
-            "openai"
-          ],
-          "angles": [
-            "AI 工具/工作流拆解",
-            "小红书卡片：痛点-工具-结果"
-          ],
-          "recommendation": "快讯/素材池追踪",
-          "selectionReason": "入选原因：来源 Hugging Face Models 的信号强度 25/25；AI/工具关键词：ai、llm、gpt。",
-          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         }
       ]
     },
     {
       "source": "Buzzing Show HN",
       "count": 2,
-      "averageScore": 57,
+      "averageScore": 59,
       "items": [
         {
-          "title": "Show HN: Crunchbase替代平台限时免费提供终身专业版使用权限",
-          "url": "https://startupwiki.tech/blog/free-lifetime-pro-giveaway",
+          "title": "Show HN: Itsuki——面向人工智能代理的开源记忆引擎（API 和 MCP）",
+          "url": "https://itsuki.app/",
           "source": "Buzzing Show HN",
-          "summary": "Free lifetime pro access for limited time to crunchbase alternative (startupwiki.tech) 08:50 ↑ 1 HN Points",
-          "publishedAt": "2026-08-29T01:08:33.756Z",
-          "rawSignal": 16,
-          "id": "706d2716bc25",
-          "score": 60,
+          "summary": "Itsuki – open-source memory engine for AI agents (API and MCP) (itsuki.app) 15:50 ↑ 1 HN Points",
+          "publishedAt": "2026-08-29T08:04:13.465Z",
+          "rawSignal": 13,
+          "id": "a1be2c8dd46d",
+          "score": 64,
           "scoreBreakdown": {
-            "signal": 19,
-            "relevance": 7,
-            "contentFit": 9,
-            "business": 15,
+            "signal": 13,
+            "relevance": 16,
+            "contentFit": 14,
+            "business": 11,
             "recency": 10
           },
           "tags": [
-            "startup",
-            "用户吐槽",
-            "开发机会"
+            "ai",
+            "agent",
+            "api",
+            "mcp"
           ],
           "angles": [
-            "用户吐槽 → 开发机会",
-            "独立开发者/增长案例",
+            "AI 工具/工作流拆解",
+            "海外 SaaS 产品机会",
+            "MCP 生态应用清单",
             "小红书卡片：痛点-工具-结果"
           ],
-          "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 19/25；用户负反馈：替代；独立开发/增长关键词：startup。",
-          "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
-          "opportunity": {
-            "type": "用户吐槽/开发机会",
-            "complaintHits": [
-              "替代"
-            ],
-            "contextHits": [
-              "平台"
-            ]
-          }
+          "recommendation": "快讯/素材池追踪",
+          "selectionReason": "入选原因：来源 Buzzing Show HN 的信号强度 13/25；AI/工具关键词：ai、agent；SaaS/商业关键词：api；热点场景：agent、mcp。",
+          "nextAction": "建议：先放入素材池追踪 24-48 小时，观察是否有二次传播、竞品跟进或用户评论痛点。"
         },
         {
-          "title": "Show HN: Metis——一款将DeepSeek的编码水平提升至Opus级别的代理框架（82%）",
-          "url": "https://github.com/Wholiver/metis",
+          "title": "Show HN: DeepSeekGUI——DeepSeek编码代理的Windows桌面客户端",
+          "url": "https://github.com/See-Sol-Lab/DeepSeekGUI",
           "source": "Buzzing Show HN",
-          "summary": "Metis – An agent harness pushing DeepSeek to Opus-tier coding (82%) (github.com) 10:36 ↑ 2 HN Points",
-          "publishedAt": "2026-08-29T03:00:24.266Z",
+          "summary": "DeepSeekGUI – A Windows desktop client for DeepSeek''s coding agent (github.com) 19:02 ↑ 1 HN Points",
+          "publishedAt": "2026-08-29T11:16:16.099Z",
           "rawSignal": 13,
-          "id": "6115461aa615",
+          "id": "e70e7937ae77",
           "score": 53,
           "scoreBreakdown": {
             "signal": 13,
@@ -5045,48 +5111,53 @@
       ]
     },
     {
-      "source": "Buzzing Dev.to",
+      "source": "Buzzing Lobsters",
       "count": 1,
-      "averageScore": 73,
+      "averageScore": 81,
       "items": [
         {
-          "title": "不应允许您的AI代理随心所欲地写作",
-          "url": "https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33",
-          "source": "Buzzing Dev.to",
-          "summary": "Your AI Agent Shouldn''t Be Allowed to Write Whatever It Wants (dev.to) 08-26",
-          "publishedAt": "2026-08-28T16:20:34.276Z",
+          "title": "我天真地尝试用Vibe编程语言为智能体编写一个记忆工具，结果却陷入了哲学中那些未解难题的深渊",
+          "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+          "source": "Buzzing Lobsters",
+          "summary": "I naively tried vibe-coding a memory tool for agents and stared into the abyss of unsolved problems in philosophy (arbustoemchamas.substack.com) 14:11 Lobste Comment",
+          "publishedAt": "2026-08-29T06:12:16.489Z",
           "rawSignal": 16,
-          "id": "23bec2354ba6",
-          "score": 73,
+          "id": "9928173748ab",
+          "score": 81,
           "scoreBreakdown": {
             "signal": 19,
-            "relevance": 14,
-            "contentFit": 18,
+            "relevance": 20,
+            "contentFit": 20,
             "business": 12,
             "recency": 10
           },
           "tags": [
             "ai",
             "agent",
+            "coding",
+            "tool",
             "用户吐槽",
             "开发机会"
           ],
           "angles": [
             "用户吐槽 → 开发机会",
             "AI 工具/工作流拆解",
+            "AI 编程提效实测",
             "小红书卡片：痛点-工具-结果"
           ],
           "recommendation": "用户吐槽/开发机会",
-          "selectionReason": "入选原因：来源 Buzzing Dev.to 的信号强度 19/25；用户负反馈：hate；AI/工具关键词：ai、agent；热点场景：agent。",
+          "selectionReason": "入选原因：来源 Buzzing Lobsters 的信号强度 19/25；用户负反馈：problem；AI/工具关键词：ai、agent、coding；内容适配关键词：tool。",
           "nextAction": "建议：把这条负反馈当作开发机会处理，先追原帖评论确认高频痛点，再拆 MVP 替代方案：目标用户、现有 SaaS 不好用点、愿付费场景、可 1 周验证的最小功能。",
           "opportunity": {
             "type": "用户吐槽/开发机会",
             "complaintHits": [
-              "hate"
+              "problem"
             ],
             "contextHits": [
+              "tool",
               "agent",
-              "ai"
+              "ai",
+              "工具"
             ]
           }
         }
